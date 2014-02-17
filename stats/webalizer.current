@@ -1,0 +1,4582 @@
+# Webalizer V2.21-02 Incremental Data - 02/11/2014 23:59:56
+2014 2 11 23 59 56
+2117185 963352 331 1174 80 101 121389644424 1085091 8681 0
+255 5796 16963 1 11
+196219 86942 9985234138 185 103826 646
+167649 77039 9426767013 134 95652 453
+231295 102372 11560097979 272 106589 964
+222114 102726 13011608874 275 107915 957
+206735 96426 12298169024 268 105023 884
+207333 91807 11623794389 261 102617 973
+197694 89640 11293078176 262 100140 960
+173997 80185 10258732780 186 94437 680
+143353 70799 9741898700 123 86065 420
+196909 85878 12026699166 267 94189 1041
+173887 79538 10163564185 255 88638 920
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+50227 29469 4167319308 37736
+50902 29771 4250769438 38290
+50800 29756 4231169065 38256
+50869 29757 4258749341 38273
+51170 29874 4291797545 38350
+52029 29962 4263837072 38097
+55827 31096 4899083794 38481
+83738 36492 5463566567 40571
+122305 45218 6068631424 46423
+114923 46645 5872663734 48448
+119365 47774 5769746088 50836
+107506 46217 5653379613 50315
+98277 45239 5218647327 48809
+103054 44631 5423879055 48774
+118790 47861 5575484499 51168
+130947 54534 6302499346 53751
+124689 54466 6257738970 54725
+111953 46977 5106408576 50698
+93301 41110 4893338934 45980
+91691 40993 4925639208 46174
+84379 39619 4661069481 45883
+89722 40424 4737800464 46253
+94137 41600 4667145138 47847
+66584 33867 4429280437 40953
+0
+0
+0
+963352
+0
+0
+0
+0
+0
+643
+0
+1055
+2178
+0
+870184
+0
+0
+27
+0
+0
+0
+277361
+112
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2271
+0
+0
+2
+0
+0
+# -urls- 
+/wp-content/plugins/special-recent-posts/assets/js/srp-init.js
+0 2 8245809442738667520 5018 0 0
+/intranet/wp-content/themes/m1/images/nav-icon.svg
+0 1 8530209319817732452 852 0 0
+/intranet_41/Dados/files/CAT0006/78372.pdf
+0 1 5427753 846427 0 0
+/intranet_41/Dados/files/CAT0005/78231.pdf
+0 2 1919037037 431493 0 0
+/intranet_41/Dados/files/CAT0004/77682.pdf
+0 2 23349526052025902 238360 0 0
+/intranet_41/Dados/files/CAT0004/77440.pdf
+0 1 8026310017166697518 653088 0 0
+/intranet_41/template/css/-template-imagens/delimitador-top-prd.png
+1 5298 8030047269819397168 14975640 0 0
+/intranet/wp-content/plugins/dop-shortcodes/assets/js/jquery.dop.ImageLoader.js
+0 2 1919037037 77836 0 0
+/intranet_41/Dados/files/CAT0004/77001.pdf
+0 1 21236 421169 0 0
+/wp-content/uploads/2014/02/icon_header_06.png
+1 184 0 86620 0 0
+/intranet_41/Dados/files/CAT0004/77288.pdf
+0 2 3543822943815467008 234082 0 0
+/intranet_41/Dados/files/CAT0004/77721.pdf
+0 4 0 1060560 0 0
+/intranet_41/template/css/temas/verde_limao/jquery.ui.datepicker.css
+0 6127 0 1270444 0 0
+/intranet_41/Dados/files/CAT0005/77665.pdf
+0 2 0 173218 0 0
+/intranet/wp-content/themes/m1/images/icon_data_publicacao.png
+1 2 0 962 0 0
+/wp-includes/js/tinymce/wp-tinymce.php
+0 2 0 232530 0 0
+/intranet_41/Dados/files/CAT0005/77961.doc
+0 6 0 141312 0 0
+/wp-includes/css/buttons.min.css
+0 10 0 35430 0 0
+/intranet_41/Dados/files/CAT0004/77608.pdf
+0 3 0 365638 0 0
+/intranet_41/Dados/files/CAT0009/77626.pdf
+0 1 0 4307 0 0
+/intranet_41/Dados/files/tmp/00023242.xlsx
+0 3 0 177733 0 0
+/wp-admin/images/date-button.gif
+1 1 0 400 0 0
+/painel/js/jquery/jquery-1.9.1.js
+0 4 0 1073524 0 0
+/intranet_41/template/css/-menu-imagens/item-pointer-mover.gif
+1 639 0 8288 0 0
+/wp-content/uploads/2014/02/slide07-300x226.png
+1 1 0 135601 0 0
+/intranet_41/Dados/files/CAT0004/77890.pdf
+0 3 0 906912 0 0
+/intranet_41/Dados/files/CAT0004/77693.pdf
+0 1 0 120871 0 0
+/intranet_41/Dados/files/CAT0005/78287.pdf
+0 2 0 15763 0 0
+/wp-content/uploads/2013/08/Homenagem-52-150x150.jpg
+1 1 0 10732 0 0
+/wp-admin/plugins.php
+0 16 0 903288 0 0
+/intranet/wp-includes/js/jquery/ui/jquery.ui.widget.min.js
+0 2 0 12976 0 0
+/intranet_41/Dados/files/CAT0004/77974.pdf
+0 2 0 666888 0 0
+/intranet_41/Dados/files/CAT0004/76885.pdf
+0 1 0 390296 0 0
+/intranet_41/template/css/-960/
+0 2 0 0 0 0
+/wp-content/themes/m1/js/superfish.js
+0 5465 0 10518300 0 0
+/intranet_41/template/css/temas/verde_limao/jquery.ui.resizable.css
+0 6132 0 371207 0 0
+/intranet_41/Dados/files/CAT0004/77535.pdf
+0 2 0 300724 0 0
+/intranet_41/Dados/files/CAT0009/77114.pdf
+0 1 0 312604 0 0
+/intranet/wp-includes/js/jquery/ui/jquery.ui.core.min.js
+0 2 0 8578 0 0
+/wp-content/uploads/2014/02/slide061.png
+1 6011 0 2962591253 0 0
+/
+0 10680 0 220891601 6081 152
+/intranet_41/Dados/files/CAT0005/77518.pdf
+0 1 0 0 0 0
+/intranet_41/Dados/files/CAT0004/77619.pdf
+0 2 0 370912 0 0
+/intranet_41/template/img/imagem-13.jpg
+1 14499 0 116021732 0 0
+/wp-content/themes/twentyfourteen/screenshot.png
+1 2 0 1234508 0 0
+/intranet_41/template/img/ImagemPainel_3.jpg
+1 20350 0 13388228 0 0
+/wp-content/plugins/custom-login/assets/images/chosen-sprite.png
+1 1 0 646 0 0
+/wp-includes/js/customize-preview.min.js
+0 6 0 5779 0 0
+/intranet_41/Dados/files/CAT0004/77181.pdf
+0 1 0 131505 0 0
+/intranet/wp-content/plugins/dop-shortcodes/assets/gui/css/style-dopshortcodes.css
+0 2 0 28966 0 0
+/intranet_41/Dados/files/CAT0005/78253.pdf
+0 1 0 175706 0 0
+/intranet_41/Dados/files/CAT0004/77462.pdf
+0 2 0 275298 0 0
+/wp-content/themes/m1/js/customizer.js
+0 6 0 2718 0 0
+/wp-content/plugins/bootstrap-collapse/js/bcpickcolor.js
+0 127 0 480 0 0
+/intranet_41/Dados/files/CAT0004/77940.pdf
+0 1 0 118138 0 0
+/intranet_41/Dados/files/CAT0006/77344.pdf
+0 3 0 356541 0 0
+/intranet_41/Dados/files/CAT0005/77884.pdf
+0 2 0 311382 0 0
+/intranet_41/Dados/files/CAT0004/77501.pdf
+0 4 0 834475 0 0
+/intranet_41/Dados/files/CAT0004/77546.pdf
+0 1 0 0 0 0
+/intranet_41/Dados/files/CAT0004/77304.pdf
+0 2 0 249272 0 0
+/intranet_41/Dados/files/CAT0005/77923.pdf
+0 2 0 247599 0 0
+/intranet_41/Dados/files/CAT0004/76935.pdf
+0 1 0 125387 0 0
+/wp-content/uploads/2014/02/slide08-150x150.png
+1 2 0 44135 0 0
+/wp-admin/about.php
+0 1 0 29347 0 0
+/intranet_41/Dados/files/CAT0005/76198.jpeg
+0 1 0 0 0 0
+/intranet_41/Dados/files/CAT0006/78143.jpeg
+0 1 0 767502 0 0
+/intranet_41/template/js/interno/T0034/produtos.js
+0 3 0 21357 0 0
+/intranet_41/Dados/files/CAT0006/78163.pdf
+0 2 0 1790926 0 0
+/intranet_41/Dados/files/CAT0004/78320.pdf
+0 3 0 1043820 0 0
+/intranet_41/Dados/files/CAT0004/77276.pdf
+0 2 0 115357 0 0
+/intranet_41/template/js/msgs/jquery.pnotify.js
+0 6062 0 7947888 0 0
+/intranet_41/Dados/files/CAT0004/76187.pdf
+0 1 0 77776 0 0
+/intranet_41/Dados/files/CAT0009/78383.pdf
+0 1 0 290185 0 0
+/intranet_41/Dados/files/CAT0006/77552.pdf
+0 1 0 344560 0 0
+/intranet_41/Dados/files/CAT0006/77597.pdf
+0 2 29238192 1056714 0 0
+/intranet_41/Dados/files/CAT0006/77355.pdf
+0 1 0 419449 0 0
+/intranet_41/Dados/files/CAT0004/76862.pdf
+0 2 0 258694 0 0
+/intranet_41/Dados/files/CAT0005/78303.pdf
+0 2 0 413899 0 0
+/intranet_41/Dados/files/CAT0004/77754.pdf
+0 1 0 121662 0 0
+/intranet_41/Dados/files/CAT0005/78348.pdf
+0 1 29756144 77652 0 0
+/intranet_41/Dados/files/CAT0004/77799.pdf
+0 7 0 491892 0 0
+/intranet_41/Dados/files/CAT0004/76901.pdf
+0 1 0 405684 0 0
+/intranet_41/Dados/files/CAT0004/76704.pdf
+0 2 0 248416 0 0
+/intranet_41/Dados/files/CAT0005/78152.jpg
+1 2 0 155524 0 0
+/intranet_41/Dados/files/CAT0004/77838.pdf
+0 3 0 439630 0 0
+/intranet/wp-content/plugins/slideshow-gallery/images/colorbox/loading_background.png
+1 1 0 157 0 0
+/painel/js/jquery/jquery.form.js
+0 4 0 168344 0 0
+/intranet_41/Dados/files/CAT0011/
+0 4 0 0 0 1
+/wp-admin/css/colors-fresh.min.css
+0 19 0 75792 0 0
+/intranet/wp-content/plugins/slideshow-gallery/js/colorbox.js
+0 2 0 51018 0 0
+/wp-content/plugins/slideshow-gallery/images/spinner.gif
+1 13 0 106044 0 0
+/intranet_41/Dados/files/tmp/00077568.pdf
+0 1 0 193462 0 0
+/wp-admin/images/wordpress-logo-white.svg
+0 1 0 1518 0 0
+/wp-content/uploads/2014/02/icon_header_05.png
+1 181 0 67954 0 0
+/intranet_41/Dados/files/CAT0004/78134.pdf
+0 1 0 15896 0 0
+/intranet_41/Dados/files/CAT0004/78179.pdf
+0 3 0 546051 0 0
+/intranet_41/template/css/temas/verde_limao/jquery.ui.progressbar.css
+0 6127 0 112098 0 0
+/intranet_41/Dados/files/CAT0011/72443.xlsx
+0 3 29756928 15705 0 0
+/intranet_41/Dados/files/CAT0006/77563.pdf
+0 1 0 279220 0 0
+/intranet_41/Dados/files/CAT0004/76873.pdf
+0 2 29764064 812144 0 0
+/wp-admin/customize.php
+0 4 0 123142 0 0
+/intranet_41/Dados/files/CAT0001/74711.pdf
+0 1 0 171020 0 0
+/intranet_41/Dados/files/CAT0005/75767.pdf
+0 1 0 147100 0 0
+/intranet_41/Dados/files/CAT0004/77849.pdf
+0 1 29748032 117297 0 0
+/intranet_41/template/js/display/painel-funcoes.js
+0 14499 0 31436 0 0
+/intranet_41/Dados/files/CAT0009/77625.pdf
+0 1 0 4394 0 0
+/intranet_41/template/js/interno/T0034/checkbox.js
+0 3 0 3687 0 0
+/intranet_41/Dados/files/tmp
+0 7 0 0 0 1
+/intranet_41/Dados/files/CAT0009/77820.xls
+0 1 0 39424 0 0
+/wp-content/plugins/bootstrap-collapse/css/bootstrap.css
+0 5517 0 1731645 0 0
+/intranet_41/Dados/files/CAT0004/77692.pdf
+0 3 0 239952 0 0
+/intranet_41/Dados/files/CAT0004/77450.pdf
+0 1 0 330547 0 0
+/intranet_41/Dados/files/CAT0004/77495.pdf
+0 5 0 587800 0 0
+/intranet_41/Dados/files/CAT0002/77213.pdf
+0 1 0 918316 0 0
+/intranet_41/Dados/files/CAT0009/77611.docx
+0 3 0 13556 0 0
+/wp-content/themes/m1/images/close-btn.svg
+0 58 0 41097 0 0
+/wp-content/uploads/2014/02/slide081-300x232.png
+1 2 0 240934 0 0
+/intranet_41/Dados/files/CAT0004/77579.pdf
+0 1 0 290771 0 0
+/intranet_41/template/js/interno/T0016/transferir.js
+0 497 0 172410 0 0
+/intranet_41/Dados/files/CAT0004/77963.
+0 6 0 547252 0 0
+/intranet_41/template/img/noticias/capa32.png
+1 5803 0 76379572 0 0
+/wp-content/uploads/2014/02/logo2.png
+1 192 0 683529 0 0
+/intranet_41/template/img/imagem-12.jpg
+1 14498 0 17844270386 0 0
+/wp-admin/plugin-install.php
+0 3 0 81165 0 0
+/intranet_41/template/js/jquery/ui/jquery-ui-1.8.11.custom.js
+0 20588 0 126074528 0 0
+/intranet_41/template/img/capa-treinamento.jpg
+1 7 0 288666 0 0
+/wp-includes/images/icon-pointer-flag.png
+1 1 0 783 0 0
+/intranet_41/template/img/ImagemPainel_2.jpg
+1 17831 0 15660428 0 0
+/intranet_41/Dados/files/CAT0001/76591.pdf
+0 1 0 176766 0 0
+/intranet_41/template/css/temas/verde_limao/images/ui-bg_highlight-soft_75_6b9e1b_1x100.png
+1 1381 0 32240 0 0
+/intranet_41/Dados/files/CAT0005/78252.pdf
+0 1 0 175404 0 0
+/intranet_41/Dados/files/CAT0004/77461.pdf
+0 4 0 283284 0 0
+/intranet_41/template/css/-menu.css
+0 6150 0 1105379 0 0
+/intranet_41/Dados/files/CAT0005/77883.pdf
+0 2 0 228686 0 0
+/intranet_41/template/css/temas/verde_limao/jquery.ui.theme.css
+0 6142 0 5230817 0 0
+/intranet_41/Dados/files/CAT0004/77500.pdf
+0 2 0 198962 0 0
+/intranet_41/Dados/files/CAT0004/76259.pdf
+0 1 0 128342 0 0
+/wp-content/uploads/2014/02/slide071.png
+1 5954 0 2741931234 0 0
+/intranet_41/Dados/files/CAT0003/57226.doc
+0 3 0 30208 0 0
+/intranet_41/Dados/files/CAT0009/77602.pdf
+0 2 0 26466 0 0
+/intranet_41/template/js/interno/login.js
+0 6070 0 4282872 0 0
+/intranet_41/Dados/files/CAT0006/77422.jpeg
+0 1 0 551698 0 0
+/intranet_41/Dados/files/CAT0004/78280.pdf
+0 3 0 2913719 0 0
+/intranet_41/template/js/interno/T0016/upload.js
+0 497 0 43330 0 0
+/intranet_41/template/js/interno/highcharts_export.js
+0 6077 18446744073709551615 3357120 0 0
+/intranet_41/Dados/files/CAT0004/77275.pdf
+0 2 0 115157 0 0
+/intranet_41/Dados/files/CAT0004/78167.pdf
+0 6 0 2811714 0 0
+/intranet_41/Dados/files/CAT0009/78382.pdf
+0 1 48 290185 0 0
+/intranet_41/Dados/files/CAT0004/14566.pdf
+0 1 29763504 620988 0 0
+/wp-admin/
+0 35 0 417117 0 0
+/intranet_41/Dados/files/CAT0006/76220.pdf
+0 2 0 2536326 0 0
+/intranet_41/Dados/files/CAT0004/60284.pdf
+0 1 0 366015 0 0
+/intranet_41/Dados/files/CAT0004/77511.pdf
+0 1 0 194027 0 0
+/intranet_41/Dados/files/CAT0004/77995.pdf
+0 6 0 114017 0 0
+/intranet_41/Dados/files/CAT0004/78009.pdf
+0 5 0 119652 0 0
+/wp-content/uploads/2014/02/slide031-300x220.png
+1 2 0 116182 0 0
+/intranet/wp-content/plugins/slideshow-gallery/images/colorbox/loading.gif
+1 1 0 9427 0 0
+/intranet_41/Dados/files/CAT0004/77837.pdf
+0 8 0 294584 0 0
+/intranet_41/template/js/interno/T0016/cancelar.js
+0 497 0 169260 0 0
+/wp-content/uploads/2014/02/slide00.png
+1 193 0 51297536 0 0
+/intranet/wp-content/plugins/special-recent-posts/assets/css/css-ie7-fix.css
+0 1 0 656 0 0
+/intranet_41/Dados/files/CAT0004/78291.pdf
+0 3 0 2867360 0 0
+/intranet_41/Dados/files/CAT0004/77044.pdf
+0 2 0 419331 0 0
+/wp-content/uploads/2014/02/icon_header_04.png
+1 184 0 98820 0 0
+/intranet_41/Dados/files/CAT0004/78178.pdf
+0 1 0 343864 0 0
+/intranet_41/Dados/files/CAT0004/73121.pdf
+0 1 0 128458 0 0
+/intranet_41/Dados/files/CAT0004/77724.
+0 1 0 140871 0 0
+/intranet_41/Dados/files/CAT0004/77522.pdf
+0 2 0 196208 0 0
+/intranet_41/Dados/files/CAT0007/77984.pdf
+0 2 29739664 223975 0 0
+/intranet/wp-content/plugins/slideshow-gallery/images/colorbox/border.png
+1 1 0 112 0 0
+/intranet_41/Dados/files/CAT0005/77702.pdf
+0 1 0 123899 0 0
+/wp-includes/js/jquery/jquery-migrate.min.js
+0 6551 0 10893746 0 0
+/intranet_41/Dados/files/CAT0004/77848.pdf
+0 1 29747760 116843 0 0
+/intranet_41/Dados/files/CAT0004/77606.pdf
+0 1 0 236759 0 0
+/intranet_41/template/js/interno/T0016/busca.js
+0 297 0 587167 0 0
+/wp-content/uploads/2014/02/slide11.png
+1 6030 0 741695844 0 0
+/wp-content/uploads/2014/02/slide03-300x220.png
+1 1 0 58091 0 0
+/wp-content/plugins/rocket-dashboard/fontello/font/fontello.woff
+0 4 0 51008 0 0
+/wp-admin/css/colors.min.css
+0 115 0 155330 0 0
+/wp-content/plugins/widget-icon/assets/font-awesome/font/fontawesome-webfont.eot
+0 4527 0 29329645 0 0
+/intranet_41/Dados/files/CAT0005/77438.jpg
+1 2 0 0 0 0
+/intranet_41/Dados/files/CAT0001/75490.pdf
+0 1 0 181526 0 0
+/intranet_41/Dados/files/tmp/00077578.pdf
+0 1 0 908029 0 0
+/intranet_41/Dados/files/CAT0004/77691.pdf
+0 4 0 119787 0 0
+/wp-content/plugins/slideshow-gallery/css/gallery-css.php
+0 13 0 37791 0 3
+/intranet_41/template/js/interno/T0034/T0034.js
+0 5 0 4872 0 0
+/intranet_41/Dados/files/CAT0004/77297.pdf
+0 4 0 489972 0 0
+/intranet_41/Dados/files/CAT0004/77730.pdf
+0 3 0 984936 0 0
+/intranet_41/Dados/files/CAT0004/77139.pdf
+0 2 0 235511 0 0
+/intranet_41/Dados/files/CAT0004/76967.pdf
+0 2 0 867327 0 0
+/intranet_41/Dados/files/CAT0006/78307.pdf
+0 2 0 198446 0 0
+/intranet_41/Dados/files/CAT0004/77859.pdf
+0 2 29744800 236014 0 0
+/intranet_41/template/img/imagem-11.jpg
+1 28992 0 56677642611 0 0
+/intranet_41/template/img/ImagemPainel_1.jpg
+1 15773 0 14903564 0 0
+/wp-includes/fonts/dashicons.eot
+0 1 0 16153 0 0
+/intranet_41/Dados/files/CAT0004/13381.pdf
+0 1 29763792 186583 0 0
+/wp-content/uploads/2014/02/slide08-300x232.png
+1 1 0 120467 0 0
+/intranet_41/template/js/interno/T0111/novo.js
+0 238 0 35325 0 0
+/intranet_41/Dados/files/CAT0004/77460.pdf
+0 4 0 290466 0 0
+/intranet_41/Dados/files/CAT0009/77914.xls
+0 1 0 39936 0 0
+/wp-content/uploads/2014/02/slide041-150x150.png
+1 2 0 21591 0 0
+/intranet_41/
+0 836352 0 2697973179 2448 3829
+/intranet_41/Dados/files/CAT0005/66992.pdf
+0 1 0 322437 0 0
+/intranet_41/template/css/temas/verde_limao/images/ui-bg_diagonals-small_50_aaaaaa_40x40.png
+1 1106 0 38097 0 0
+/intranet_41/Dados/files/CAT0005/77443.pdf
+0 2 0 245090 0 0
+/intranet_41/Dados/files/CAT0004/77741.pdf
+0 3 0 119112 0 0
+/intranet_41/Dados/files/CAT0004/77302.pdf
+0 2 0 247100 0 0
+/intranet_41/Dados/files/CAT0004/78239.pdf
+0 1 0 66755 0 0
+/wp-content/uploads/2014/02/slide02-150x150.png
+1 2 0 27002 0 0
+/intranet/wp-content/themes/m1/js/modernizr.js
+0 2 0 19654 0 0
+/intranet_41/Dados/files/CAT0009/73200.pdf
+0 1 0 48491 0 0
+/intranet_41/template/css/-estilo-include-tudo-ie7.css
+0 3 0 402 0 0
+/intranet_41/template/css/-classes.css
+0 6151 0 5789826 0 0
+/intranet_41/Dados/files/CAT0004/78319.jpeg
+0 1 0 399686 0 0
+/wp-includes/js/imgareaselect/imgareaselect.css
+0 2 0 790 0 0
+/painel/css/style.css
+0 4 0 42276 0 0
+/wp-content/plugins/slideshow-gallery/images/colorbox/border.png
+1 27 0 2352 0 0
+/intranet_41/template/css/estilo-painel-linux.css
+0 14499 0 302644 0 0
+/intranet_41/Dados/files/CAT0004/77032.pdf
+0 1 0 317692 0 0
+/intranet_41/Dados/files/CAT0004/77274.pdf
+0 3 0 347685 0 0
+/wp-admin/post-new.php
+0 2 0 147204 0 0
+/intranet_41/Dados/files/CAT0006/77550.pdf
+0 1 0 340930 0 0
+/intranet_41/Dados/files/CAT0004/77752.pdf
+0 2 0 234722 0 0
+/intranet_41/Dados/files/CAT0004/77510.pdf
+0 2 0 187193 0 0
+/wp-content/plugins/custom-login/classes/edd-remote-install-client/js/edd-remote-install-admin.js
+0 1 0 11307 0 0
+/wp-content/plugins/slideshow-gallery/images/colorbox/controls.png
+1 27 0 60753 0 0
+/intranet_41/Dados/files/CAT0004/78008.pdf
+0 3 0 336497 0 0
+/wp-content/plugins/rocket-dashboard/fontello/font/fontello.eot
+0 1 0 19136 0 0
+/intranet_41/Dados/files/CAT0006/75895.pdf
+0 2 0 1265832 0 0
+/wp-content/uploads/2014/02/slide081.png
+1 5891 0 2009746363 0 0
+/wp-content/plugins/custom-login/assets/js/chosen.jquery.min.js
+0 1 0 25688 0 0
+/intranet_41/Dados/files/CAT0004/77836.pdf
+0 4 0 445959 0 0
+/intranet_41/Dados/files/CAT0009/77430.doc
+0 3 12898643808437284402 67584 0 0
+/wp-includes/js/zxcvbn.min.js
+0 1 8031714069456123250 698728 0 0
+/intranet_41/Dados/files/CAT0009/77899.pdf
+0 2 3472386781623774976 34997 0 0
+/intranet_41/Dados/files/CAT0011/78074.xlsx
+0 3 3328773867638370561 14237 0 0
+/intranet_41/template/img/conhelp.gif
+1 5447 8530209599007322727 321736 0 0
+/intranet_41/template/css/-validationEngine.jquery.css
+0 6147 3617288137742578287 823883 0 0
+/intranet_41/Dados/files/CAT0004/77966.jpg
+1 3 3615880537853394944 186267 0 0
+/intranet_41/Dados/files/CAT0005/77381.pdf
+0 1 0 145664 0 0
+/wp-content/uploads/2014/02/icon_header_03.png
+1 185 0 93330 0 0
+/intranet_41/Dados/files/CAT0004/78177.pdf
+0 1 0 1299472 0 0
+/intranet_41/Dados/files/CAT0004/75585.pdf
+0 1 0 391245 0 0
+/painel/js/foundation/foundation.min.js
+0 4 0 332800 0 0
+/intranet_41/Dados/files/CAT0004/78458.pdf
+0 1 29754560 242375 0 0
+/intranet_41/Dados/files/CAT0004/78019.pdf
+0 5 0 920647 0 0
+/intranet_41/Dados/files/CAT0007/77983.pdf
+0 3 0 229800 0 0
+/intranet_41/Dados/files/CAT0004/77802.pdf
+0 4 0 967275 0 0
+/intranet_41/Dados/files/CAT0004/77847.pdf
+0 1 29747360 116143 0 0
+/wp-admin/user-new.php
+0 3 0 85119 0 0
+/intranet_41/Dados/files/CAT0004/77605.pdf
+0 1 0 187537 0 0
+/wp-admin/admin-ajax.php
+0 1638 0 5230702 5 632
+/intranet_41/Dados/files/CAT0001/72857.pdf
+0 1 0 92824 0 0
+/intranet/wp-content/plugins/bootstrap-collapse/js/bootstrap-collapse.js
+0 2 0 9470 0 0
+/wp-content/uploads/2014/02/slide001-300x225.png
+1 2 0 161626 0 0
+/wp-admin/images/comment-grey-bubble.png
+1 2 0 114 0 0
+/wp-includes/js/jquery/ui/jquery.ui.core.min.js
+0 6082 0 6116114 0 0
+/intranet_41/Dados/files/CAT0005/77437.jpg
+1 2 0 348554 0 0
+/intranet_41/Dados/files/CAT0004/77690.pdf
+0 4 0 362189 0 0
+/intranet/wp-content/plugins/widget-icon/assets/elusive/font/Elusive-Icons.eot
+0 1 0 41988 0 0
+/intranet_41/template/js/interno/T0133/T0133.js
+0 10 0 22617 0 0
+/intranet_41/template/js/interno/T0012/T0012.js
+0 2 0 12036 0 0
+/intranet_41/Dados/files/CAT0004/77493.pdf
+0 6 0 842735 0 0
+/wp-content/uploads/2013/08/Homenagem-51-150x150.jpg
+1 1 0 10604 0 0
+/intranet_41/template/css/temas/verde_limao/jquery.ui.selectable.css
+0 6131 0 102068 0 0
+/intranet_41/Dados/files/CAT0002/78345.pdf
+0 3 0 179037 0 0
+/intranet_41/Dados/files/CAT0004/73570.pdf
+0 1 0 168346 0 0
+/intranet_41/Dados/files/CAT0004/77577.pdf
+0 1 0 291573 0 0
+/intranet_41/Dados/files/CAT0004/78227.pdf
+0 3 0 1357436 0 0
+/intranet_41/Dados/files/CAT0009/78245.pdf
+0 2 0 160564 0 0
+/intranet_41/template/css/-menu-imagens/item-pointer.gif
+1 3632 0 17136 0 0
+/intranet_41/Dados/files/CAT0004/77858.pdf
+0 2 29744656 233332 0 0
+/intranet_41/template/js/interno/mensagens.js
+0 6058 0 683508 0 0
+/intranet_41/template/css/temas/verde_limao/images/ui-icons_1333be_256x240.png
+1 655 0 808605 0 0
+/intranet_41/Dados/files/CAT0005/78250.pdf
+0 1 0 116033 0 0
+/intranet_41/Dados/files/CAT0004/78351.pdf
+0 2 29757216 698816 0 0
+/intranet_41/Dados/files/CAT0004/76173.pdf
+0 1 0 150803 0 0
+/intranet_41/Dados/files/CAT0004/77065.pdf
+0 1 0 0 0 0
+/intranet_41/Dados/files/CAT0004/78154.pdf
+0 4 0 1645443 0 0
+/painel/css/menu.css
+0 4 0 3604 0 0
+/intranet_41/Dados/files/CAT0006/77583.pdf
+0 1 0 39222 0 0
+/intranet_41/Dados/files/CAT0007/78132.pdf
+0 3 0 81192 0 0
+/intranet_41/Dados/files/CAT0005/77881.pdf
+0 2 0 385127 0 0
+/intranet_41/Dados/files/CAT0004/77588.pdf
+0 4 0 436960 0 0
+/intranet_41/template/css/-template-imagens/cabec-cont-info-fast_path-form.png
+1 5411 0 15030069 0 0
+/intranet/wp-content/plugins/widget-icon/assets/font-awesome/css/font-awesome.min.css
+0 2 0 39510 0 0
+/intranet_41/Dados/files/CAT0004/77869.pdf
+0 2 0 210389 0 0
+/intranet_41/template/js/tablesorter/themes/blue/style.css
+0 6081 0 284592 0 0
+/wp-content/uploads/2014/02/slide07-150x150.png
+1 2 0 47872 0 0
+/painel/js/DV_funcoesGerais.js
+0 4 0 97908 0 0
+/intranet_41/Dados/files/CAT0004/77431.jpg
+1 1 0 249492 0 0
+/intranet_41/Dados/files/CAT0004/76819.pdf
+0 1 0 358011 0 0
+/intranet_41/template/js/interno/T0026/T0026.js
+0 45 0 349288 0 0
+/intranet_41/template/css/temas/verde_limao/images/ui-icons_2d430c_256x240.png
+1 1177 0 1096619 0 0
+/intranet_41/Dados/files/CAT0005/78261.pdf
+0 2 0 550703 0 0
+/intranet_41/Dados/files/CAT0004/77470.pdf
+0 2 0 248188 0 0
+/intranet_41/Dados/files/CAT0004/77273.pdf
+0 1 0 117115 0 0
+/painel/css/toolbar.css
+0 4 0 4548 0 0
+/intranet_41/Dados/files/CAT0004/75770.pdf
+0 2 0 243030 0 0
+/intranet_41/Dados/files/CAT0005/77892.pdf
+0 2 0 55940 0 0
+/intranet_41/Dados/files/CAT0004/77993.pdf
+0 1 0 112311 0 0
+/wp-content/uploads/2014/02/slide041-300x171.png
+1 2 0 93470 0 0
+/intranet_41/Dados/files/tmp/00051117.xlsx
+0 6 0 142014568 0 0
+/intranet_41/Dados/files/CAT0004/78007.pdf
+0 3 0 238826 0 0
+/intranet_41/Dados/files/CAT0004/77835.pdf
+0 2 0 148137 0 0
+/intranet_41/Dados/files/CAT0009/77898.pdf
+0 2 0 41994 0 0
+/intranet_41/Dados/files/CAT0009/77937.pdf
+0 2 0 970882 0 0
+/intranet_41/template/css/temas/verde_limao/jquery.ui.button.css
+0 6129 0 775894 0 0
+/intranet_41/Dados/files/CAT0005/78030.pdf
+0 1 0 48193 0 0
+/wp-content/uploads/2014/02/icon_header_02.png
+1 186 0 110532 0 0
+/intranet_41/Dados/files/CAT0006/14699.pdf
+0 1 29765168 374349 0 0
+/intranet_41/Dados/files/CAT0004/77368.pdf
+0 2 0 214404 0 0
+/intranet_41/Dados/files/CAT0004/78215.pdf
+0 2 0 446264 0 0
+/intranet_41/Dados/files/CAT0007/77982.pdf
+0 1 0 120155 0 0
+/intranet_41/template/css/temas/verde_limao/jquery.ui.tabs.css
+0 6129 0 435700 0 0
+/intranet_41/Dados/files/CAT0004/77846.pdf
+0 1 29747216 116021 0 0
+/intranet_41/Dados/files/CAT0004/77604.pdf
+0 6 0 719775 0 0
+/intranet_41/Dados/files/CAT0004/77649.pdf
+0 3 0 119670 0 0
+/wp-includes/images/uploader-icons.png
+1 2 0 3186 0 0
+/intranet_41/Dados/files/CAT0006/77424.jpeg
+0 1 0 569433 0 0
+/painel/css/foundation/normalize.css
+0 4 0 30356 0 0
+/intranet_41/template/img/favicon.ico
+0 266 0 314262 0 0
+/wp-content/uploads/2014/02/slide06-300x225.png
+1 1 0 143278 0 0
+/painel/css/jquery/jquery.pnotify.default.icons.css
+0 4 0 1764 0 0
+/intranet_41/template/js/interno/T0111/T0111.js
+0 369 0 89100 0 0
+/intranet_41/Dados/files/CAT0004/77295.pdf
+0 2 0 241708 0 0
+/intranet_41/Dados/files/CAT0006/70623.jpg
+1 1 0 1503776 0 0
+/intranet_41/Dados/files/CAT0004/76684.pdf
+0 1 0 349792 0 0
+/intranet_41/template/js/tablesorter/tablesorter.js
+0 6059 0 13406328 0 0
+/wp-content/uploads/2013/08/Homenagem-56-150x150.jpg
+1 1 0 9196 0 0
+/intranet_41/Dados/files/CAT0004/77137.pdf
+0 2 0 230299 0 0
+/intranet_41/Dados/files/CAT0009/78289.pdf
+0 2 0 35096 0 0
+/intranet_41/Dados/files/CAT0006/77610.pdf
+0 1 0 1968223 0 0
+/intranet_41/Dados/files/CAT0006/78305.pdf
+0 1 0 198175 0 0
+/intranet_41/Dados/files/CAT0005/77998.pdf
+0 1 0 138332 0 0
+/intranet_41/Dados/files/CAT0004/77857.pdf
+0 2 29744512 234830 0 0
+/wp-content/uploads/2014/02/slide051-300x224.png
+1 2 0 252388 0 0
+/intranet/wp-content/themes/m1/js/skip-link-focus-fix.js
+0 2 0 1466 0 0
+/intranet_41/Dados/files/CAT0009/77717.pdf
+0 3 0 1876755 0 0
+/intranet/wp-content/plugins/buddypress/bp-templates/bp-legacy/js/buddypress.js
+0 2 0 109866 0 0
+/intranet/wp-content/plugins/special-recent-posts/assets/css/css-front.css
+0 2 0 6978 0 0
+/intranet_41/Dados/files/CAT0009/77912.xls
+0 2 0 79872 0 0
+/intranet_41/template/css/temas/verde_limao/images/ui-bg_glass_75_a4e049_1x400.png
+1 1313 0 37808 0 0
+/intranet_41/Dados/files/CAT0004/78350.pdf
+0 2 0 802194 0 0
+/intranet_41/Dados/files/CAT0004/59488.pdf
+0 1 29766560 195019 0 0
+/intranet_41/Dados/files/CAT0005/66990.pdf
+0 1 0 324873 0 0
+/intranet_41/Dados/files/CAT0004/76453.pdf
+0 2 0 578400 0 0
+/wp-content/uploads/2014/02/slide1-150x150.png
+1 2 0 34191 0 0
+/intranet_41/Dados/files/CAT0004/77300.pdf
+0 2 0 244888 0 0
+/intranet_41/Dados/files/CAT0004/77784.pdf
+0 4 0 679050 0 0
+/intranet_41/template/css/imagens-display/oferta.png
+1 12772 0 1302886 0 0
+/intranet_41/Dados/files/CAT0004/77868.pdf
+0 2 0 233706 0 0
+/wp-content/uploads/2013/09/logo2.png
+1 1 0 5649 0 0
+/wp-admin/import.php
+0 4 0 113007 0 0
+/intranet_41/template/js/interno/T0029/T0029.js
+0 107 0 19188 0 0
+/intranet_41/Dados/files/CAT0004/29292.pdf
+0 1 29767264 32461 0 0
+/intranet_41/Dados/files/CAT0004/76197.jpeg
+0 1 0 0 0 0
+/intranet_41/Dados/files/CAT0005/78260.pdf
+0 2 0 550703 0 0
+/intranet_41/Dados/files/CAT0004/77272.pdf
+0 1 0 115764 0 0
+/intranet_41/Dados/files/CAT0004/78164.pdf
+0 5 0 863618 0 0
+/wp-content/plugins/widget-icon/js/widget-icon.js
+0 2 0 3786 0 0
+/intranet_41/Dados/files/CAT0004/77750.pdf
+0 4 0 373474 0 0
+/intranet_41/Dados/files/CAT0007/77098.pdf
+0 2 0 68414 0 0
+/intranet_41/Dados/files/CAT0005/77255.pdf
+0 3 0 324711 0 0
+/intranet_41/Dados/files/CAT0004/78006.pdf
+0 1 0 119426 0 0
+/intranet_41/Dados/files/CAT0004/76503.pdf
+0 2 0 342782 0 0
+/intranet_41/Dados/files/CAT0004/77834.pdf
+0 4 0 553618 0 0
+/intranet_41/Dados/files/CAT0004/66989.pdf
+0 1 0 283016 0 0
+/intranet_41/Dados/files/CAT0004/77879.pdf
+0 2 0 120313 0 0
+/intranet_41/Dados/files/CAT0006/77958.pdf
+0 2 0 422936 0 0
+/intranet_41/Dados/files/CAT0004/76829.pdf
+0 1 0 124999 0 0
+/intranet_41/template/css/temas/verde_limao/jquery.ui.autocomplete.css
+0 6131 0 349020 0 0
+/wp-content/plugins/widget-icon/assets/elusive/font/Elusive-Icons.woff
+0 139 0 5477184 0 0
+/intranet_41/Dados/files/tmp/00022491.xlsx
+0 14 0 4707366 0 0
+/wp-content/uploads/2014/02/icon_header_01.png
+1 183 0 81720 0 0
+/intranet_41/template/css/-estilo-include-tudo.css
+0 6492 0 71162 0 0
+/intranet_41/Dados/files/CAT0004/76430.pdf
+0 2 29765856 256428 0 0
+/intranet_41/Dados/files/CAT0004/77761.pdf
+0 5 0 2493767 0 0
+/intranet_41/Dados/files/CAT0004/78456.pdf
+0 3 29754288 934374 0 0
+/intranet_41/Dados/files/CAT0004/78259.pdf
+0 3 0 843238 0 0
+/intranet_41/Dados/files/CAT0009/78232.pdf
+0 2 0 185118 0 0
+/intranet_41/Dados/files/CAT0007/77981.pdf
+0 2 0 202423 0 0
+/intranet_41/Dados/files/CAT0005/77502.pdf
+0 2 0 387746 0 0
+/intranet_41/Dados/files/CAT0004/76711.pdf
+0 1 0 0 0 0
+/intranet_41/Dados/files/CAT0004/77845.pdf
+0 1 29747072 115470 0 0
+/intranet_41/Dados/files/CAT0004/77603.pdf
+0 3 0 423612 0 0
+/intranet_41/Dados/files/CAT0009/77621.pdf
+0 1 0 217891 0 0
+/intranet_41/Dados/files/CAT0004/76317.pdf
+0 1 0 238583 0 0
+/wp-admin/user-edit.php
+0 2 0 59965 0 0
+/wp-content/uploads/2013/09/logo1-150x85.png
+1 1 0 1187 0 0
+/wp-content/plugins/rocket-dashboard/wp-admin.css
+0 6 0 92845 0 0
+/intranet/wp-content/themes/m1/images/close-btn.png
+1 1 0 1038 0 0
+/wp-content/uploads/2013/08/capa23.png
+1 26 0 15845980 0 0
+/intranet_41/Dados/files/CAT0004/77294.pdf
+0 2 0 278234 0 0
+/intranet_41/Dados/files/CAT0004/78141.pdf
+0 2 0 179670 0 0
+/intranet_41/Dados/files/CAT0004/77097.pdf
+0 2 0 72772 0 0
+/intranet_41/Dados/files/CAT0004/77378.pdf
+0 2 0 216154 0 0
+/intranet_41/Dados/files/CAT0009/78288.pdf
+0 2 0 798711 0 0
+/intranet_41/Dados/files/CAT0004/77856.pdf
+0 2 29744368 236230 0 0
+/intranet_41/Dados/files/CAT0004/77614.pdf
+0 2 0 1638836 0 0
+/intranet/wp-content/plugins/dop-shortcodes/assets/gui/fonts/DOP-Shortcodes-Social-Icons.eot
+0 1 0 35004 0 0
+/intranet_41/Dados/files/CAT0009/77632.pdf
+0 2 0 44260 0 0
+/intranet_41/Dados/files/CAT0004/78309.pdf
+0 1 0 389413 0 0
+/intranet_41/Dados/files/CAT0006/77935.pdf
+0 3 0 1134651 0 0
+/intranet_41/Dados/files/CAT0007/77637.pdf
+0 4 0 504832 0 0
+/painel/css/jquery/jquery-ui-timepicker.css
+0 4 0 2380 0 0
+/intranet_41/Dados/files/CAT0009/77911.xls
+0 1 0 40448 0 0
+/intranet_41/Dados/files/CAT0004/33064.pdf
+0 2 0 245493 0 0
+/wp-includes/images/arrow-pointer-blue.png
+1 1 0 793 0 0
+/painel/
+0 2 29759328 12168 0 0
+/intranet_41/Dados/files/CAT0004/76891.pdf
+0 1 0 321306 0 0
+/intranet_41/Dados/files/CAT0004/77783.pdf
+0 4 0 614583 0 0
+/wp-content/uploads/2014/02/slide001-150x150.png
+1 2 0 31420 0 0
+/intranet_41/Dados/files/CAT0004/77586.pdf
+0 3 0 295904 0 0
+/intranet_41/Dados/files/CAT0005/78135.pdf
+0 2 0 174998 0 0
+/intranet_41/Dados/files/CAT0004/78478.pdf
+0 1 29766704 43092 0 0
+/intranet_41/Dados/files/CAT0004/77822.pdf
+0 2 0 52731 0 0
+/intranet_41/Dados/files/CAT0004/77867.pdf
+0 2 0 231086 0 0
+/painel/images/slot.png
+1 2 0 754 0 0
+/intranet_41/Dados/files/CAT0004/77709.pdf
+0 1 29746784 122047 0 0
+/wp-content/plugins/dop-shortcodes/assets/js/jquery.dop.ImageLoader.js
+0 6539 0 59311032 0 0
+/intranet_41/Dados/files/tmp/
+0 16 0 0 0 0
+/intranet_41/template/js/interno/jquery.maskedinput-1.3.js
+0 6088 0 2125968 0 0
+/painel/css/jquery/images/ui-icons_2e83ff_256x240.png
+1 1 29758912 4549 0 0
+/wp-content/plugins/slideshow-gallery/images/colorbox/loading.gif
+1 27 0 197967 0 0
+/intranet_41/Dados/files/CAT0004/77271.pdf
+0 1 0 115049 0 0
+/wp-content/uploads/2014/02/slide051-150x150.png
+1 2 0 46388 0 0
+/wp-admin/async-upload.php
+0 45 0 25608 1 0
+/wp-admin/export.php
+0 2 0 78001 0 0
+/intranet_41/Dados/files/CAT0004/77310.pdf
+0 2 0 240008 0 0
+/intranet_41/Dados/files/CAT0004/77113.pdf
+0 1 0 172579 0 0
+/intranet_41/Dados/files/CAT0004/78489.pdf
+0 2 29764592 1022384 0 0
+/intranet_41/Dados/files/CAT0004/78005.pdf
+0 2 0 214515 0 0
+/wp-includes/js/jquery/ui/jquery.ui.accordion.min.js
+0 6057 0 11890928 0 0
+/intranet_41/Dados/files/CAT0004/75413.pdf
+0 4 29762960 144970 0 0
+/intranet_41/Dados/files/CAT0009/78304.pdf
+0 1 0 125268 0 0
+/wp-admin/images/spinner.gif
+1 8 0 10480 0 0
+/wp-cron.php
+0 50 0 0 24 25
+/intranet_41/Dados/files/CAT0004/77760.pdf
+0 3 0 326378 0 0
+/wp-content/plugins/custom-login/assets/css/admin.css
+0 1 0 5894 0 0
+/intranet_41/Dados/files/CAT0004/78455.pdf
+0 3 29753360 262503 0 0
+/intranet_41/Dados/files/CAT0007/77980.pdf
+0 2 0 237550 0 0
+/intranet_41/template/css/-template-imagens/excluir.png
+1 334 0 3307941 0 0
+/intranet_41/Dados/files/CAT0002/78218.pdf
+0 2 0 332980 0 0
+/intranet_41/Dados/files/CAT0005/76896.pdf
+0 2 0 3480965 0 0
+/intranet_41/template/css/images/bg_arrow_validate.png
+1 152 0 8385 0 0
+/intranet_41/Dados/files/CAT0004/77647.pdf
+0 4 0 486096 0 0
+/wp-admin/images/list.png
+1 1 0 1003 0 0
+/intranet_41/Dados/files/CAT0004/75902.pdf
+0 2 0 866424 0 0
+/intranet_41/template/js/interno/T0117/T0117.js
+0 13 0 119984 0 0
+/wp-content/uploads/2014/02/slide00-300x225.png
+1 1 0 80813 0 0
+/intranet_41/template/css/-template-imagens/background-cabecalho-prd.png
+1 5305 0 17690875 0 0
+/intranet_41/template/css/-template-imagens/user.png
+1 5414 0 15544640 0 0
+/wp-content/plugins/slideshow-jquery-image-gallery/images/SlideshowPluginSlideInserter/close.png
+1 5 0 1066 0 0
+/intranet_41/Dados/files/CAT0005/78281.pdf
+0 2 0 616217 0 0
+/intranet_41/Dados/files/CAT0004/77293.pdf
+0 2 0 278704 0 0
+/wp-content/uploads/2013/08/Homenagem-50-150x150.jpg
+1 1 0 10628 0 0
+/intranet_41/template/css/-layout-prd.css
+0 6267 0 1539418 0 0
+/intranet_41/Dados/files/CAT0004/77574.pdf
+0 5 0 2098230 0 0
+/intranet_41/Dados/files/CAT0004/76288.pdf
+0 1 0 150851 0 0
+/intranet_41/Dados/files/CAT0009/78242.pdf
+0 1 0 502179 0 0
+/intranet_41/Dados/files/tmp/00063979.pdf
+0 3 0 1988094 0 0
+/intranet_41/Dados/files/CAT0001/76788.pdf
+0 1 0 179534 0 0
+/intranet_41/Dados/files/CAT0005/77996.pdf
+0 1 0 112672 0 0
+/intranet_41/Dados/files/CAT0004/77810.pdf
+0 1 0 129706 0 0
+/intranet_41/Dados/files/CAT0004/77855.pdf
+0 2 29744224 234278 0 0
+/intranet_41/Dados/files/CAT0004/78308.pdf
+0 3 0 815023 0 0
+/intranet_41/Dados/files/CAT0006/77934.pdf
+0 3 0 800888 0 0
+/intranet_41/Dados/files/CAT0001/77719.pdf
+0 2 0 255940 0 0
+/intranet_41/Dados/files/CAT0006/77737.pdf
+0 2 0 910272 0 0
+/intranet_41/Dados/files/CAT0004/77939.pdf
+0 1 0 120532 0 0
+/intranet_41/Dados/files/CAT0005/78292.pdf
+0 2 0 754701 0 0
+/intranet_41/Dados/files/CAT0004/77343.pdf
+0 3 0 282078 0 0
+/intranet_41/Dados/files/CAT0004/78235.pdf
+0 3 0 1342352 0 0
+/intranet_41/template/css/-template-imagens/background-ferramenta.png
+1 5101 0 14683656 0 0
+/intranet_41/Dados/files/CAT0004/77669.pdf
+0 2 0 142330 0 0
+/intranet_41/Dados/files/CAT0006/77945.pdf
+0 3 0 256168 0 0
+/wp-content/uploads/2014/02/slide06-150x150.png
+1 2 0 52388 0 0
+/wp-content/uploads/2014/02/slide061-300x225.png
+1 2 0 286556 0 0
+/intranet_41/Dados/files/CAT0005/77607.pdf
+0 1 0 183098 0 0
+/intranet_41/Dados/files/CAT0004/77708.pdf
+0 1 29746640 120269 0 0
+/wp-content/uploads/2014/02/slide021-300x228.png
+1 2 0 149800 0 0
+/wp-content/uploads/2013/09/icon_header_06.png
+1 1 0 710 0 0
+/intranet_41/Dados/files/CAT0004/77270.pdf
+0 2 0 232362 0 0
+/intranet_41/Dados/files/CAT0002/78364.pdf
+0 3 0 581004 0 0
+/intranet_41/Dados/files/CAT0007/78140.pdf
+0 11 0 2772857 0 0
+/intranet_41/Dados/files/CAT0004/73392.pdf
+0 1 0 55148 0 0
+/intranet_41/Dados/files/CAT0007/77096.pdf
+0 1 0 34342 0 0
+/wp-content/uploads/avatars/1/e88f3df29830d0a8907f9244f58fe259-bpthumb.jpg
+1 2 0 3950 0 0
+/intranet_41/Dados/files/CAT0004/76462.pdf
+0 4 0 1632032 0 0
+/intranet_41/Dados/files/CAT0004/78004.pdf
+0 1 0 118899 0 0
+/intranet_41/Dados/files/CAT0001/77657.pdf
+0 2 0 336340 0 0
+/intranet_41/Dados/files/CAT0005/77973.pdf
+0 1 29766128 212860 0 0
+/intranet_41/Dados/files/CAT0004/76940.pdf
+0 1 0 752214 0 0
+/intranet_41/Dados/files/CAT0004/77877.pdf
+0 2 0 208178 0 0
+/intranet_41/Dados/files/CAT0004/77635.pdf
+0 4 0 392898 0 0
+/intranet_41/Dados/files/CAT0004/76546.pdf
+0 2 0 246828 0 0
+/intranet/wp-includes/js/jquery/ui/jquery.ui.tabs.min.js
+0 2 0 23182 0 0
+/intranet_41/Dados/files/CAT0006/76906.pdf
+0 1 0 0 0 0
+/wp-content/plugins/slideshow-jquery-image-gallery/images/SlideshowPlugin/loading-icon-128x128.gif
+1 5690 0 12996291 0 0
+/intranet_41/Dados/files/CAT0009/76601.xls
+0 3 0 178176 0 0
+/intranet_41/template/css/-msgs/jquery.pnotify.default.css
+0 6085 0 481739 0 0
+/intranet_41/Dados/files/CAT0004/77365.pdf
+0 2 0 111815 0 0
+/intranet_41/Dados/files/CAT0004/78257.pdf
+0 3 0 852906 0 0
+/intranet_41/Dados/files/CAT0004/78015.pdf
+0 2 0 215629 0 0
+/wp-content/plugins/slideshow-gallery/images/icon.png
+1 4 0 2721 0 0
+/intranet_41/Dados/files/CAT0004/77843.pdf
+0 2 0 207937 0 0
+/intranet_41/Dados/files/CAT0004/77601.pdf
+0 2 0 196092 0 0
+/intranet_41/Dados/files/CAT0009/78359.pdf
+0 1 0 20618 0 0
+/wp-content/uploads/2014/02/slide1-300x220.png
+1 1 0 76077 0 0
+/wp-content/plugins/widget-icon/css/widget-icon-front.css
+0 6580 0 509008 0 0
+/intranet_41/Dados/files/CAT0003/57225.msg
+0 1 0 100864 0 0
+/wp-content/plugins/slideshow-jquery-image-gallery/style/SlideshowPlugin/functional.css
+0 6024 0 4607245 0 0
+/painel/css/foundation/foundation.min.css
+0 4 0 655364 0 0
+/intranet_41/Dados/files/CAT0006/77613.jpg
+1 2 0 376332 0 0
+/intranet_41/Dados/files/CAT0004/77050.pdf
+0 1 0 352346 0 0
+/intranet_41/Dados/files/CAT0004/77292.pdf
+0 2 0 275952 0 0
+/intranet_41/template/js/interno/jquery.math.1.0.js
+0 6080 0 1477561 0 0
+/intranet_41/Dados/files/CAT0004/77095.pdf
+0 3 0 108462 0 0
+/wp-content/themes/m1/js/skip-link-focus-fix.js
+0 5025 0 1028399 0 0
+/intranet/wp-content/plugins/widget-icon/css/widget-icon-front.css
+0 2 0 568 0 0
+/intranet_41/Dados/files/CAT0004/77376.pdf
+0 1 0 119247 0 0
+/intranet_41/Dados/files/CAT0004/77134.pdf
+0 2 0 227199 0 0
+/intranet_41/Dados/files/tmp/00063978.pdf
+0 9 0 23541652 0 0
+/wp-content/uploads/2013/08/Homenagem-55-150x150.jpg
+1 1 0 10407 0 0
+/intranet_41/Dados/files/CAT0006/77894.pdf
+0 3 0 689882 0 0
+/intranet_41/Dados/files/CAT0004/76720.pdf
+0 1 0 0 0 0
+/intranet_41/Dados/files/CAT0004/77854.pdf
+0 2 29743824 232510 0 0
+/intranet_41/Dados/files/CAT0009/78290.xlsx
+0 4 0 33288 0 0
+/intranet_41/Dados/files/CAT0004/77938.pdf
+0 1 0 129636 0 0
+/intranet_41/template/js/display/jcarousellite_1.0.1c4.js
+0 14499 0 413714 0 0
+/intranet_41/Dados/files/CAT0004/77545.jpg
+1 2 0 178169 0 0
+/intranet/wp-includes/js/jquery/jquery-migrate.min.js
+0 2 0 14398 0 0
+/intranet_41/template/css/temas/verde_limao/images/ui-icons_454545_256x240.png
+1 4895 0 1643985 0 0
+/wp-includes/js/thickbox/thickbox.css
+0 49 0 30733 0 0
+/intranet_41/template/js/display/jcarousellite_1.0.1.pack.js
+0 14499 0 61973 0 0
+/intranet_41/Dados/files/CAT0004/77781.pdf
+0 2 0 221480 0 0
+/intranet_41/Dados/files/CAT0004/76450.pdf
+0 3 0 380718 0 0
+/intranet_41/Dados/files/CAT0004/77584.pdf
+0 3 0 313086 0 0
+/intranet_41/template/css/temas/verde_limao/images/ui-bg_diagonals-thick_95_fef1ec_40x40.png
+1 269 0 21924 0 0
+/intranet_41/Dados/files/CAT0005/78133.pdf
+0 1 0 73464 0 0
+/intranet/wp-content/themes/m1/images/nav-icon.png
+1 1 0 356 0 0
+/wp-content/plugins/special-recent-posts/assets/images/structure/widget_header.gif
+1 2 0 11412 0 0
+/intranet_41/Dados/files/CAT0004/76731.pdf
+0 3 0 77170 0 0
+/intranet_41/Dados/files/CAT0004/77865.pdf
+0 2 0 206824 0 0
+/intranet_41/Dados/files/CAT0004/76776.pdf
+0 1 0 741213 0 0
+/intranet_41/Dados/files/CAT0005/78459.pdf
+0 1 29754704 243654 0 0
+/intranet_41/Dados/files/CAT0004/77668.pdf
+0 2 0 263787 0 0
+/intranet_41/Dados/files/CAT0005/77803.pdf
+0 2 0 659297 0 0
+/wp-content/plugins/slideshow-gallery/js/colorbox.js
+0 103 0 918324 0 0
+/wp-content/plugins/slideshow-gallery/css/colorbox.css
+0 100 0 186732 0 0
+/intranet_41/Dados/files/CAT0004/77904.pdf
+0 1 0 80260 0 0
+/intranet_41/Dados/files/CAT0004/77707.pdf
+0 1 29746368 120430 0 0
+/intranet_41/Dados/files/CAT0004/77949.pdf
+0 1 0 117990 0 0
+/wp-includes/images/blank.gif
+1 7 0 129 0 0
+/intranet_41/Dados/files/CAT0001/78380.pdf
+0 1 0 177068 0 0
+/wp-content/uploads/2013/09/icon_header_05.png
+1 1 0 557 0 0
+/intranet_41/Dados/files/CAT0004/78161.pdf
+0 1 0 154563 0 0
+/intranet_41/template/css/temas/verde_limao/jquery.ui.base.css
+0 6142 0 134932 0 0
+/intranet_41/Dados/files/CAT0002/78363.pdf
+0 3 0 489597 0 0
+/intranet/wp-content/plugins/dop-shortcodes/assets/gui/fonts/DOP-Shortcodes-Interactive-Elements-Icons.eot
+0 1 0 8700 0 0
+/intranet_41/Dados/files/CAT0005/77494.pdf
+0 3 29743024 613497 0 0
+/intranet_41/Dados/files/CAT0004/78003.pdf
+0 5 0 120527 0 0
+/wp-content/themes/m1/style.css
+0 6540 0 75341259 0 0
+/intranet_41/Dados/files/CAT0004/76984.pdf
+0 2 0 199410 0 0
+/intranet_41/Dados/files/CAT0006/78369.pdf
+0 1 0 227590 0 0
+/intranet_41/Dados/files/CAT0005/78228.pdf
+0 2 0 341505 0 0
+/wp-content/plugins/slideshow-jquery-image-gallery/images/SlideshowPlugin/light-arrows.png
+1 5668 0 5181285 0 0
+/wp-content/themes/m1/images/nav-icon.svg
+0 54 0 45156 0 0
+/wp-content/uploads/2014/02/slide1.png
+1 193 0 62212716 0 0
+/intranet_41/Dados/files/CAT0006/78454.jpg
+1 1 29753216 178569 0 0
+/intranet_41/Dados/files/CAT0004/77280.pdf
+0 2 0 287814 0 0
+/intranet_41/Dados/files/CAT0004/78453.pdf
+0 3 29752672 269043 0 0
+/intranet_41/Dados/files/CAT0004/78256.pdf
+0 3 0 611296 0 0
+/intranet_41/Dados/files/CAT0004/78014.pdf
+0 1 0 117477 0 0
+/intranet_41/Dados/files/CAT0004/72110.pdf
+0 1 0 77237 0 0
+/intranet_41/Dados/files/CAT0005/76894.pdf
+0 1 0 305592 0 0
+/intranet_41/Dados/files/CAT0004/77600.pdf
+0 5 0 2281952 0 0
+/intranet_41/Dados/files/CAT0004/77842.pdf
+0 3 0 300540 0 0
+/intranet_41/Dados/files/CAT0004/77645.pdf
+0 2 0 234138 0 0
+/intranet_41/Dados/files/CAT0004/76556.pdf
+0 5 0 409287 0 0
+/intranet_41/Dados/files/CAT0004/77403.pdf
+0 1 0 197450 0 0
+/intranet_41/Dados/files/CAT0004/77448.pdf
+0 5 0 335322 0 0
+/wp-content/uploads/2013/08/Homenagem-49-150x150.jpg
+1 1 0 11150 0 0
+/intranet_41/template/css/-template-imagens/background-ferramenta-conteudo-menu-ul-li-a.gif
+1 5202 0 4100616 0 0
+/intranet_41/Dados/files/CAT0004/76837.pdf
+0 1 0 73322 0 0
+/intranet_41/Dados/files/CAT0004/77729.pdf
+0 3 0 733204 0 0
+/intranet_41/Dados/files/CAT0004/31749.pdf
+0 1 0 345963 0 0
+/wp-admin/load-scripts.php
+0 94 0 4918588 0 0
+/intranet_41/Dados/files/CAT0006/77612.jpg
+1 2 0 369278 0 0
+/wp-content/uploads/2014/02/slide05-300x224.png
+1 1 0 126194 0 0
+/intranet_41/Dados/files/CAT0004/77291.pdf
+0 2 0 276804 0 0
+/intranet_41/Dados/files/CAT0004/77572.pdf
+0 1 0 393693 0 0
+/intranet_41/Dados/files/CAT0004/77178.pdf
+0 2 0 293608 0 0
+/intranet_41/Dados/files/CAT0009/78285.pdf
+0 2 0 1520847 0 0
+/intranet_41/Dados/files/tmp/00063977.pdf
+0 3 0 2636822 0 0
+/intranet_41/Dados/files/CAT0006/78301.pdf
+0 2 0 333002 0 0
+/intranet_41/Dados/files/CAT0004/77853.pdf
+0 2 29743680 233910 0 0
+/intranet_41/Dados/files/CAT0005/77797.pdf
+0 1 0 78392 0 0
+/intranet_41/Dados/files/CAT0004/77414.pdf
+0 2 0 317176 0 0
+/intranet_41/template/js/interno/T0095/T0095.js
+0 25 0 36090 0 0
+/intranet_41/Dados/files/CAT0004/77459.pdf
+0 3 0 288686 0 0
+/intranet_41/Dados/files/CAT0004/78306.pdf
+0 4 0 415766 0 0
+/wp-content/plugins/special-recent-posts/assets/css/css-front.css
+0 5537 0 5264901 0 0
+/intranet_41/template/css/-msgs/jquery.pnotify.default.icons.css
+0 6083 0 107260 0 0
+/intranet_41/template/css/temas/verde_limao/jquery.ui.slider.css
+0 6127 0 359100 0 0
+/wp-content/plugins/dop-shortcodes/assets/gui/css/style-dopshortcodes.css
+0 6573 0 22073949 0 0
+/intranet_41/template/css/imagens/bkg-classe-botao-padrao-hover.png
+1 532 0 7138410 0 0
+/intranet_41/template/css/images/ui-bg_diagonals-thick_95_fef1ec_40x40.png
+1 153 0 10836 0 0
+/intranet_41/template/css/temas/verde_limao/images/ui-icons_222222_256x240.png
+1 5303 0 21709920 0 0
+/wp-content/themes/m1/js/modernizr.js
+0 5472 0 14858424 0 0
+/intranet_41/Dados/files/CAT0001/78210.pdf
+0 1 0 171667 0 0
+/intranet_41/template/css/colunas.css
+0 6147 0 4168867 0 0
+/intranet_41/Dados/files/CAT0004/78278.pdf
+0 4 0 1272247 0 0
+/intranet_41/template/css/temas/verde_limao/jquery.ui.accordion.css
+0 6129 0 335790 0 0
+/intranet_41/Dados/files/CAT0006/78312.pdf
+0 2 0 113459 0 0
+/wp-content/uploads/2014/02/slide00-150x150.png
+1 2 0 31420 0 0
+/intranet_41/Dados/files/CAT0004/77622.pdf
+0 1 0 49317 0 0
+/intranet_41/Dados/files/CAT0005/78216.pdf
+0 5 0 3898416 0 0
+/intranet_41/Dados/files/CAT0004/77667.pdf
+0 2 0 276552 0 0
+/intranet_41/Dados/files/CAT0005/77369.pdf
+0 1 0 145294 0 0
+/intranet_41/Dados/files/CAT0009/78321.docx
+0 3 0 16807 0 0
+/intranet_41/Dados/files/CAT0004/78317.pdf
+0 2 0 745346 0 0
+/intranet_41/Dados/files/CAT0004/77948.pdf
+0 1 0 116598 0 0
+/intranet_41/Dados/files/CAT0004/77706.pdf
+0 2 0 208297 0 0
+/intranet_41/Dados/files/CAT0004/77555.jpg
+1 2 0 212832 0 0
+/wp-content/uploads/2013/09/icon_header_04.png
+1 1 0 810 0 0
+/intranet_41/template/js/tablesorter/themes/blue/desc.gif
+1 377 0 4320 0 0
+/intranet_41/Dados/files/CAT0005/77296.pdf
+0 1 0 130305 0 0
+/intranet_41/Dados/files/CAT0004/78002.pdf
+0 2 0 233434 0 0
+/intranet_41/Dados/files/CAT0004/77155.pdf
+0 4 0 413562 0 0
+/intranet/wp-content/plugins/slideshow-gallery/images/colorbox/overlay.png
+1 2 0 364 0 0
+/wp-content/uploads/2014/02/slide11-150x150.png
+1 2 0 34191 0 0
+/intranet_41/template/jQuery/validaForm/jquery.validationEngine-pt.js
+0 6066 0 2353035 0 0
+/intranet_41/Dados/files/CAT0004/77633.pdf
+0 4 0 373687 0 0
+/intranet_41/Dados/files/CAT0004/21897.pdf
+0 2 0 79403 0 0
+/intranet_41/template/js/interno/T0084/T0084.js
+0 24 0 71082 0 0
+/wp-content/themes/m1/images/close-btn.png
+1 4799 0 1381578 0 0
+/wp-content/uploads/2014/02/slide071-300x226.png
+1 2 0 271202 0 0
+/intranet/wp-content/plugins/widget-icon/assets/elusive/css/elusive-webfont.css
+0 2 0 46684 0 0
+/intranet_41/Dados/files/CAT0004/67719.pdf
+0 1 29761936 107167 0 0
+/wp-content/uploads/2014/02/slide001.png
+1 6027 0 615422263 0 0
+/intranet_41/Dados/files/CAT0004/77960.jpg
+1 3 0 353358 0 0
+/intranet_41/Dados/files/CAT0002/78373.pdf
+0 4 0 385110 0 0
+/wp-content/uploads/2014/02/slide061-150x150.png
+1 2 0 52388 0 0
+/intranet_41/Dados/files/CAT0004/78255.pdf
+0 3 0 1282670 0 0
+/intranet_41/Dados/files/CAT0001/75640.pdf
+0 1 0 176485 0 0
+/intranet_41/Dados/files/CAT0004/1807.pdf
+0 1 29765024 150515 0 0
+/intranet_41/template/css/-menu-imagens/lava.gif
+1 16 0 877 0 0
+/intranet_41/Dados/files/CAT0004/77841.pdf
+0 2 0 295616 0 0
+/intranet_41/Dados/files/CAT0004/77644.pdf
+0 2 0 120094 0 0
+/intranet_41/Dados/files/CAT0004/77886.pdf
+0 4 0 876501 0 0
+/intranet_41/Dados/files/CAT0004/77689.pdf
+0 1 29745088 120357 0 0
+/intranet_41/Dados/files/CAT0004/77205.pdf
+0 1 0 150953 0 0
+/intranet_41/Dados/files/CAT0005/76932.pdf
+0 1 0 109417 0 0
+/wp-content/plugins/widget-icon/assets/elusive/font/Elusive-Icons.eot
+0 6097 0 58237356 0 0
+/painel/js/jquery/jquery-ui-1.10.3.custom.min.js
+0 4 0 912548 0 0
+/wp-content/plugins/custom-login/classes/edd-remote-install-client/css/edd-remote-install-admin.css
+0 1 0 4907 0 0
+/intranet_41/Dados/files/CAT0005/77908.pdf
+0 1 0 114929 0 0
+/painel/js/jquery/jquery.maskedinput.min.js
+0 4 0 14272 0 0
+/intranet/wp-content/plugins/slideshow-gallery/js/gallery.js
+0 2 0 12520 0 0
+/intranet_41/Dados/files/CAT0004/75590.pdf
+0 1 0 390145 0 0
+/wp-admin/upgrade.php
+0 5 0 5549 1 0
+/intranet_41/Dados/files/CAT0004/77571.pdf
+0 2 0 470506 0 0
+/wp-includes/images/xit.gif
+1 1 0 182 0 0
+/intranet_41/Dados/files/CAT0004/77374.pdf
+0 1 0 112732 0 0
+/intranet_41/template/js/interno/T0098/T0098.js
+0 94 0 34936 0 0
+/wp-content/plugins/slideshow-jquery-image-gallery/js/min/all.frontend.min.js
+0 5942 0 32009600 0 0
+/intranet_41/Dados/files/CAT0004/77852.pdf
+0 1 29748464 117038 0 0
+/intranet_41/Dados/files/CAT0005/77796.pdf
+0 1 0 78392 0 0
+/intranet_41/Dados/files/CAT0004/75477.pdf
+0 1 0 391849 0 0
+/intranet_41/Dados/files/CAT0004/77655.pdf
+0 3 0 943221 0 0
+/intranet_41/Dados/files/CAT0005/78249.pdf
+0 1 0 114602 0 0
+/wp-content/themes/m1/js/off-canvas-nav-simple.js
+0 5465 0 415250 0 0
+/intranet_41/Dados/files/CAT0004/77458.pdf
+0 2 0 260337 0 0
+/intranet_41/Dados/files/CAT0009/78368.pdf
+0 1 0 44185 0 0
+/intranet_41/Dados/files/CAT0004/77936.pdf
+0 3 0 114804 0 0
+/intranet_41/template/css/-msgs/
+0 2 0 0 0 0
+/intranet_41/Dados/files/CAT0005/77284.pdf
+0 2 0 122936 0 0
+/intranet_41/Dados/files/CAT0004/77582.pdf
+0 3 0 72172 0 0
+/intranet_41/Dados/files/CAT0004/77385.pdf
+0 2 0 0 0 0
+/intranet_41/template/js/interno/jquery-1.6.1.min.js
+0 20603 0 31147281 0 0
+/intranet_41/Dados/files/CAT0004/77143.pdf
+0 2 0 239923 0 0
+/intranet_41/Dados/files/CAT0009/55820.docx
+0 3 0 13495 0 0
+/intranet_41/Dados/files/CAT0004/77863.pdf
+0 1 29749024 117044 0 0
+/intranet_41/Dados/files/CAT0005/78457.pdf
+0 1 29758768 110820 0 0
+/intranet_41/Dados/files/CAT0005/78018.pdf
+0 2 0 1000535 0 0
+/intranet_41/Dados/files/CAT0004/77469.pdf
+0 1 0 117875 0 0
+/intranet/wp-content/plugins/widget-icon/assets/font-awesome/font/fontawesome-webfont.eot
+0 1 0 25395 0 0
+/intranet_41/Dados/files/CAT0004/78316.pdf
+0 2 0 745346 0 0
+/intranet_41/Dados/files/CAT0001/77727.pdf
+0 1 0 179574 0 0
+/wp-content/uploads/2014/02/slide05-150x150.png
+1 2 0 46388 0 0
+/intranet_41/Dados/files/CAT0004/77947.pdf
+0 1 0 119026 0 0
+/intranet_41/Dados/files/CAT0004/77705.pdf
+0 2 0 238504 0 0
+/wp-includes/js/customize-base.min.js
+0 6 0 20326 0 0
+/wp-content/plugins/slideshow-gallery/vendors/timthumb.php
+0 1 0 2903 0 0
+/wp-content/plugins/slideshow-jquery-image-gallery/images/SlideshowPluginPostType/draggable.png
+1 2 0 5878 0 0
+/intranet_41/template/js/interno/menu.js
+0 6077 0 4705430 0 0
+/intranet_41/template/js/interno/jquery.price_format.1.4.js
+0 6081 0 1386010 0 0
+/intranet_41/Dados/files/tmp/00067550.pdf
+0 2 0 630894 0 0
+/wp-content/uploads/2013/09/icon_header_03.png
+1 1 0 765 0 0
+/wp-includes/js/jquery/ui/jquery.ui.tabs.min.js
+0 6039 0 16447629 0 0
+/intranet_41/Dados/files/CAT0004/77790.pdf
+0 1 0 205195 0 0
+/intranet_41/Dados/files/CAT0004/76262.pdf
+0 2 0 255396 0 0
+/intranet_41/Dados/files/CAT0009/77805.xls
+0 1 0 39424 0 0
+/intranet_41/Dados/files/CAT0004/78001.pdf
+0 2 0 235109 0 0
+/intranet_41/Dados/files/CAT0006/78322.pdf
+0 2 0 553894 0 0
+/intranet_41/Dados/files/CAT0005/77576.pdf
+0 2 0 650808 0 0
+/intranet_41/Dados/files/CAT0004/77874.pdf
+0 2 0 486316 0 0
+/intranet_41/Dados/files/CAT0006/78367.pdf
+0 1 0 282244 0 0
+/intranet_41/Dados/files/CAT0005/78029.pdf
+0 1 0 48206 0 0
+/intranet_41/Dados/files/CAT0001/77738.pdf
+0 1 0 127970 0 0
+/intranet_41/template/css/temas/verde_limao/
+0 5 0 0 0 0
+/intranet_41/Dados/files/CAT0004/77913.pdf
+0 3 0 920840 0 0
+/intranet_41/Dados/files/CAT0004/77716.pdf
+0 7 0 3118481 0 0
+/intranet_41/Dados/files/CAT0004/76627.pdf
+0 1 0 257744 0 0
+/intranet_41/template/js/interno/jquery.quicksearch.js
+0 6076 0 1047759 0 0
+/intranet_41/Dados/files/CAT0006/78452.jpg
+1 1 29752816 202141 0 0
+/intranet_41/Dados/files/CAT0003/
+0 1 0 0 0 0
+/intranet_41/template/css/-template-imagens/logo.png
+1 5434 0 16969568 0 0
+/intranet_41/template/css/temas/verde_limao/images/ui-icons_cd0a0a_256x240.png
+1 271 0 380103 0 0
+/wp-content/uploads/2014/02/slide08.png
+1 191 0 170432185 0 0
+/wp-content/uploads/2013/08/icon_header_06.png
+1 3 0 710 0 0
+/intranet/wp-content/plugins/slideshow-gallery/css/colorbox.css
+0 2 0 10374 0 0
+/intranet_41/Dados/files/CAT0004/78012.pdf
+0 2 0 119507 0 0
+/intranet_41/Dados/files/CAT0001/77620.pdf
+0 1 0 126881 0 0
+/painel/js/jquery/jquery-ui-timepicker.js
+0 4 0 287892 0 0
+/intranet_41/Dados/files/CAT0004/77840.pdf
+0 1 29752400 148773 0 0
+/intranet_41/Dados/files/CAT0004/76554.pdf
+0 1 0 136565 0 0
+/intranet_41/Dados/files/CAT0004/77643.pdf
+0 5 0 371788 0 0
+/intranet_41/Dados/files/CAT0006/78378.pdf
+0 1 0 422364 0 0
+/intranet_41/Dados/files/CAT0005/78479.pdf
+0 1 29766848 26914 0 0
+/wp-content/plugins/buddypress/bp-templates/bp-legacy/js/buddypress.js
+0 6551 0 87219093 0 0
+/intranet_41/Dados/files/CAT0004/77688.pdf
+0 2 0 233020 0 0
+/intranet_41/Dados/files/CAT0004/78338.pdf
+0 1 0 128364 0 0
+/intranet_41/Dados/files/CAT0005/77907.pdf
+0 1 0 114986 0 0
+/intranet_41/template/css/temas/verde_limao/jquery.ui.dialog.css
+0 6128 0 426412 0 0
+/intranet_41/template/js/qtips/jquery.qtip-1.0.0-rc3.js
+0 6015 0 26577408 0 0
+/wp-content/plugins/dop-shortcodes/assets/gui/fonts/DOP-Shortcodes-Social-Icons.eot
+0 4533 0 27828180 0 0
+/intranet_41/Dados/files/tmp/00074387.pdf
+0 2 0 959374 0 0
+/painel/js/jquery/jquery.pnotify.js
+0 4 0 130440 0 0
+/intranet_41/Dados/files/CAT0004/77176.pdf
+0 2 0 293868 0 0
+/intranet_41/Dados/files/CAT0009/78283.pdf
+0 2 0 1810567 0 0
+/wp-content/uploads/2013/08/Homenagem-54-150x150.jpg
+1 1 0 10663 0 0
+/intranet_41/Dados/files/CAT0004/77851.pdf
+0 1 29748320 116511 0 0
+/intranet_41/Dados/files/CAT0004/77654.pdf
+0 3 0 184776 0 0
+/intranet_41/Dados/files/CAT0004/77699.pdf
+0 1 29745664 120852 0 0
+/intranet_41/Dados/files/CAT0004/77457.pdf
+0 3 0 146853 0 0
+/intranet_41/Dados/files/CAT0004/78349.pdf
+0 2 0 997804 0 0
+/intranet_41/Dados/files/CAT0007/76346.pdf
+0 1 0 274284 0 0
+/intranet_41/Dados/files/CAT0006/77429.jpeg
+0 1 0 424093 0 0
+/intranet_41/Dados/files/CAT0004/76604.pdf
+0 1 0 32391 0 0
+/intranet_41/Dados/files/CAT0004/76407.pdf
+0 1 0 2060847 0 0
+/wp-login.php
+0 7 0 32922 0 0
+/intranet_41/Dados/files/CAT0008/77615.pdf
+0 1 0 61560 0 0
+/wp-includes/js/json2.min.js
+0 6 0 9277 0 0
+/intranet_41/Dados/files/CAT0005/
+0 3 0 0 0 0
+/wp-includes/css/editor.min.css
+0 11 0 140386 0 0
+/intranet_41/Dados/files/CAT0004/7322.pdf
+0 1 29767536 141462 0 0
+/wp-content/plugins/slideshow-jquery-image-gallery/css/all.backend.css
+0 79 0 12116 0 0
+/intranet/wp-content/themes/m1/js/superfish.js
+0 2 0 13950 0 0
+/wp-admin/images/resize.gif
+1 4 0 142 0 0
+/intranet/wp-includes/js/jquery/jquery.js
+0 2 0 186256 0 0
+/intranet_41/Dados/files/CAT0004/77581.pdf
+0 1 0 398600 0 0
+/intranet_41/Dados/files/CAT0004/77384.pdf
+0 1 0 118157 0 0
+/intranet_41/Dados/files/CAT0006/78310.pdf
+0 1 0 266044 0 0
+/painel/js/jquery/jquery.maskMoney.js
+0 4 0 43952 0 0
+/intranet_41/Dados/files/CAT0004/77862.pdf
+0 1 29748752 116440 0 0
+/wp-admin/css/ie.min.css
+0 2 0 18524 0 0
+/intranet_41/Dados/files/CAT0004/25801.pdf
+0 1 0 304030 0 0
+/intranet_41/Dados/files/CAT0004/77468.pdf
+0 1 0 117201 0 0
+/intranet_41/Dados/files/CAT0005/77800.pdf
+0 3 0 220594 0 0
+/intranet_41/template/js/interno/T0016/status.js
+0 1 0 629 0 0
+/intranet_41/Dados/files/CAT0006/77547.pdf
+0 2 0 449091 0 0
+/intranet_41/Dados/files/CAT0004/77704.pdf
+0 1 29746224 120618 0 0
+/wp-admin/users.php
+0 13 0 408905 0 0
+/intranet_41/Dados/files/CAT0004/77749.pdf
+0 2 0 206798 0 0
+/wp-content/uploads/2013/09/icon_header_02.png
+1 1 0 906 0 0
+/intranet_41/Dados/files/tmp/00077873.pdf
+0 4 0 1963144 0 0
+/wp-content/themes/twentythirteen/screenshot.png
+1 4 0 218372 0 0
+/intranet_41/template/js/interno/jquery.listpicker.js
+0 6053 0 1996093 0 0
+/intranet_41/Dados/files/CAT0009/77804.xls
+0 3 0 115200 0 0
+/intranet_41/Dados/files/CAT0004/77153.pdf
+0 1 29760768 117996 0 0
+/wp-content/themes/m1/screenshot.png
+1 3 0 170895 0 0
+/wp-content/uploads/2014/02/logo2-150x65.png
+1 5 0 2058 0 0
+/intranet_41/template/img/adp.gif
+1 5449 0 181152 0 0
+/intranet_41/Dados/files/CAT0004/75650.pdf
+0 1 29755872 262461 0 0
+/intranet_41/Dados/files/CAT0006/78366.pdf
+0 1 0 225886 0 0
+/intranet_41/Dados/files/CAT0005/77136.pdf
+0 2 29741728 274974 0 0
+/wp-content/plugins/custom-login/assets/css/chosen.css
+0 1 0 13746 0 0
+/intranet/wp-content/plugins/bootstrap-collapse/js/bootstrap-transition.js
+0 2 0 3512 0 0
+/painel/css/dialog.css
+0 4 0 17884 0 0
+/intranet_41/Dados/files/CAT0004/77715.pdf
+0 2 0 219521 0 0
+/intranet_41/Dados/files/CAT0004/77957.pdf
+0 3 0 191998 0 0
+/wp-content/uploads/2013/09/logo-150x85.png
+1 1 0 1187 0 0
+/wp-admin/images/arrows.png
+1 3 0 486 0 0
+/wp-admin/update.php
+0 5 0 72723 0 0
+/intranet_41/template/js/tablesorter/themes/blue/
+0 5 0 0 0 0
+/wp-content/uploads/2014/02/slide07.png
+1 193 0 225661152 0 0
+/wp-content/uploads/2013/08/icon_header_05.png
+1 3 0 557 0 0
+/intranet_41/Dados/files/CAT0004/78011.pdf
+0 2 0 229064 0 0
+/intranet_41/Dados/files/CAT0004/78056.pdf
+0 4 0 36480 0 0
+/intranet_41/template/css/temas/verde_limao/images/ui-bg_flat_0_aaaaaa_40x100.png
+1 2 0 180 0 0
+/intranet_41/Dados/files/CAT0004/76992.pdf
+0 2 0 722278 0 0
+/intranet_41/Dados/files/CAT0004/76795.pdf
+0 1 0 174751 0 0
+/intranet_41/Dados/files/CAT0004/76553.pdf
+0 1 0 135919 0 0
+/intranet_41/Dados/files/CAT0004/77642.pdf
+0 4 0 367771 0 0
+/intranet_41/Dados/files/CAT0004/78337.pdf
+0 3 0 432964 0 0
+/wp-content/uploads/2013/08/Homenagem-48-150x150.jpg
+1 1 0 10745 0 0
+/intranet_41/Dados/files/CAT0004/72039.pdf
+0 1 29757072 80125 0 0
+/intranet_41/template/img/trust.gif
+1 5440 0 215840 0 0
+/wp-includes/js/jquery/jquery.js
+0 6558 0 143482979 0 0
+/intranet_41/Dados/files/CAT0005/77906.pdf
+0 2 0 114835 0 0
+/intranet/wp-content/plugins/slideshow-gallery/images/colorbox/controls.png
+1 1 0 2893 0 0
+/intranet_41/Dados/files/tmp/00055198.pdf
+0 3 0 884476 0 0
+/intranet_41/Dados/files/CAT0004/77372.pdf
+0 1 0 112004 0 0
+/intranet_41/Dados/files/CAT0004/78022.pdf
+0 7 0 118217 0 0
+/intranet_41/template/img/orkut.png
+1 5428 0 124124 0 0
+/intranet_41/Dados/files/CAT0001/75697.txt
+0 1 0 24144 0 0
+/intranet_41/Dados/files/CAT0004/77850.pdf
+0 1 29748176 115782 0 0
+/intranet_41/Dados/files/CAT0004/77653.pdf
+0 1 0 118872 0 0
+/wp-admin/images/sort.gif
+1 2 0 54 0 0
+/intranet_41/Dados/files/CAT0004/77698.pdf
+0 1 29745520 120970 0 0
+/intranet_41/Dados/files/CAT0005/78247.pdf
+0 1 0 114391 0 0
+/intranet_41/Dados/files/CAT0004/77259.pdf
+0 1 0 111031 0 0
+/intranet_41/template/css/temas/verde_limao/images/ui-bg_flat_75_ffffff_40x100.png
+1 5355 0 54290 0 0
+/intranet_41/template/css/temas/verde_limao/jquery.ui.core.css
+0 6132 0 459585 0 0
+/intranet/wp-cron.php
+0 2 0 0 2 1
+/intranet_41/Dados/files/CAT0006/77777.pdf
+0 1 0 223642 0 0
+/intranet_41/Dados/files/CAT0005/77636.pdf
+0 1 0 129064 0 0
+/intranet_41/Dados/files/CAT0009/
+0 18 0 0 0 0
+/wp-content/plugins/slideshow-gallery/images/left.gif
+1 12 0 1837 0 0
+/wp-content/uploads/2014/02/slide021.png
+1 6025 0 700729476 0 0
+/wp-content/plugins/custom-login/assets/css/genericons.css
+0 1 0 31057 0 0
+/wp-content/uploads/2014/02/slide11-300x220.png
+1 2 0 152154 0 0
+/wp-content/plugins/widget-icon/css/widget-icon-admin.css
+0 2 0 842 0 0
+/intranet_41/template/js/interno/highcharts.js
+0 6089 0 52764058 0 0
+/wp-admin/options-general.php
+0 2 0 134929 0 0
+/intranet_41/Dados/files/CAT0004/77580.pdf
+0 1 0 288281 0 0
+/intranet_41/Dados/files/CAT0004/76491.pdf
+0 1 0 365238 0 0
+/intranet_41/Dados/files/CAT0004/78230.pdf
+0 3 0 2735063 0 0
+/intranet_41/Dados/files/CAT0004/77141.pdf
+0 2 0 246995 0 0
+/wp-content/plugins/slideshow-gallery/images/colorbox/loading_background.png
+1 27 0 3297 0 0
+/intranet_41/Dados/files/CAT0001/76597.pdf
+0 1 0 174512 0 0
+/intranet_41/Dados/files/CAT0004/77861.pdf
+0 1 29748608 115717 0 0
+/intranet_41/Dados/files/CAT0005/78258.pdf
+0 1 0 109582 0 0
+/intranet_41/Dados/files/CAT0004/76136.pdf
+0 4 0 583560 0 0
+/intranet_41/Dados/files/CAT0004/77467.pdf
+0 2 0 210107 0 0
+/intranet_41/Dados/files/CAT0005/75621.pdf
+0 1 0 181460 0 0
+/intranet_41/Dados/files/CAT0005/77844.pdf
+0 2 0 244065 0 0
+/intranet_41/Dados/files/CAT0004/77900.pdf
+0 4 0 1084215 0 0
+/intranet_41/Dados/files/CAT0004/77703.pdf
+0 1 29745952 120940 0 0
+/intranet_41/Dados/files/CAT0005/77889.pdf
+0 2 0 411739 0 0
+/intranet_41/Dados/files/CAT0004/76856.pdf
+0 1 0 125599 0 0
+/intranet_41/Dados/files/CAT0004/76659.pdf
+0 1 0 190425 0 0
+/wp-content/plugins/dop-shortcodes/assets/gui/fonts/DOP-Shortcodes-Interactive-Elements-Icons.eot
+0 4551 0 6925200 0 0
+/intranet_41/Dados/files/CAT0007/77726.pdf
+0 1 0 379005 0 0
+/intranet_41/Dados/files/CAT0004/74914.pdf
+0 2 0 251792 0 0
+/wp-content/uploads/2013/08/HOMENAGEM-150x150.jpg
+1 1 0 8181 0 0
+/wp-content/uploads/2013/09/icon_header_01.png
+1 3 0 681 0 0
+/wp-content/plugins/widget-icon/assets/elusive/font//Elusive-Icons.ttf
+0 4 0 83608 0 0
+/intranet_41/Dados/files/CAT0004/69051.pdf
+0 1 0 283174 0 0
+/intranet_41/Dados/files/tmp/00077872.pdf
+0 1 0 311638 0 0
+/intranet_41/Dados/files/CAT0004/78286.pdf
+0 3 0 142686 0 0
+/intranet_41/Dados/files/CAT0006/77473.pdf
+0 1 0 413741 0 0
+/intranet_41/Dados/files/CAT0004/55698.pdf
+0 2 0 204417 0 0
+/wp-content/plugins/slideshow-gallery/js/admin.js
+0 51 0 2004 0 0
+/wp-content/plugins/buddypress/bp-core/admin/css/common.min.css
+0 127 0 90353 0 0
+/intranet_41/Dados/files/CAT0006/77557.pdf
+0 1 0 585489 0 0
+/intranet_41/Dados/files/CAT0004/77956.pdf
+0 2 0 222807 0 0
+/intranet_41/Dados/files/CAT0005/76569.pdf
+0 3 0 0 0 0
+/intranet_41/Dados/files/CAT0004/77714.pdf
+0 3 0 356766 0 0
+/intranet_41/Dados/files/CAT0004/77517.pdf
+0 3 0 255708 0 0
+/intranet_41/Dados/files/CAT0004/77759.pdf
+0 1 0 122462 0 0
+/intranet_41/Dados/files/CAT0006/78491.jpeg
+0 1 29764880 593894 0 0
+/wp-content/uploads/2014/02/slide06.png
+1 195 0 242976725 0 0
+/wp-content/uploads/2013/08/icon_header_04.png
+1 3 0 810 0 0
+/intranet_41/template/css/-960/960.css
+0 6089 0 3665130 0 0
+/wp-content/uploads/2014/02/slide021-150x150.png
+1 2 0 27002 0 0
+/wp-admin/css/install.min.css
+0 4 0 7974 0 0
+/intranet_41/Dados/files/CAT0004/76794.pdf
+0 1 0 176718 0 0
+/intranet_41/Dados/files/CAT0005/77585.pdf
+0 1 0 20324 0 0
+/intranet_41/Dados/files/CAT0005/78477.pdf
+0 1 29762304 18868 0 0
+/intranet_41/Dados/files/CAT0004/77202.pdf
+0 3 0 128373 0 0
+/intranet_41/Dados/files/CAT0004/78139.pdf
+0 4 0 590207 0 0
+/intranet_41/Dados/files/CAT0008/77366.pdf
+0 2 0 102776 0 0
+/intranet_41/Dados/files/CAT0005/77624.pdf
+0 1 0 22991 0 0
+/intranet_41/template/img/bamcentric.gif
+1 5442 0 170999 0 0
+/intranet_41/Dados/files/CAT0004/77528.pdf
+0 2 0 553571 0 0
+/intranet_41/template/js/interno/T0119/T0119.js
+0 544 0 1865472 0 0
+/wp-content/plugins/buddypress/bp-templates/bp-legacy/css/buddypress.css
+0 6581 0 57920900 0 0
+/intranet_41/template/js/tablesorter/themes/blue/bg.gif
+1 429 0 5376 0 0
+/wp-includes/js/jquery/ui/jquery.ui.widget.min.js
+0 6066 0 9271352 0 0
+/intranet_41/template/js/interno/moeda.js
+0 6085 0 449084 0 0
+/wp-content/uploads/2014/02/slide071-150x150.png
+1 2 0 47872 0 0
+/intranet_41/Dados/files/CAT0004/78021.pdf
+0 2 0 211263 0 0
+/intranet_41/Dados/files/CAT0001/75890.pdf
+0 1 0 168799 0 0
+/wp-admin/images/arrows-dark.png
+1 1 0 243 0 0
+/wp-content/plugins/dop-shortcodes/assets/gui/css/style-dopshortcodes-social-icons.css
+0 6573 0 26661117 0 0
+/intranet_41/Dados/files/CAT0004/77697.pdf
+0 1 29745376 120349 0 0
+/intranet_41/Dados/files/CAT0005/78246.pdf
+0 1 0 115146 0 0
+/intranet_41/Dados/files/CAT0009/77670.pdf
+0 1 0 115497 0 0
+/intranet_41/Dados/files/CAT0004/77455.pdf
+0 4 0 157293 0 0
+/intranet_41/Dados/files/CAT0004/78302.pdf
+0 3 0 1108705 0 0
+/intranet_41/Dados/files/CAT0006/77534.pdf
+0 1 0 0 0 0
+/intranet_41/Dados/files/CAT0004/77736.pdf
+0 1 0 383538 0 0
+/wp-content/plugins/slideshow-jquery-image-gallery/images/SlideshowPluginPostType/adminIcon.png
+1 19 0 11456 0 0
+/intranet_41/Dados/files/CAT0004/78151.jpg
+1 2 0 274814 0 0
+/wp-admin/load-styles.php
+0 33 0 2162280 0 1
+/intranet_41/template/js/interno/T0091/T0091.js
+0 22 0 6543 0 0
+/intranet_41/template/jQuery/validaForm/jquery.validationEngine.js
+0 6072 0 20262584 0 0
+/intranet_41/Dados/files/CAT0004/78144.jpeg
+0 4 0 1341810 0 0
+/intranet_41/Dados/files/CAT0002/78150.pdf
+0 1 0 163443 0 0
+/intranet_41/Dados/files/tmp/00076574.pdf
+0 1 0 541044 0 0
+/intranet_41/Dados/files/CAT0004/77382.pdf
+0 1 0 107686 0 0
+/intranet/
+0 2 0 40358 0 0
+/intranet_41/Dados/files/CAT0004/77860.pdf
+0 2 29744944 233248 0 0
+/intranet_41/Dados/files/CAT0004/78313.pdf
+0 1 29766416 312577 0 0
+/intranet_41/Dados/files/CAT0004/77269.pdf
+0 2 0 228240 0 0
+/intranet_41/Dados/files/CAT0004/77944.pdf
+0 5 0 404409 0 0
+/intranet_41/Dados/files/CAT0005/77888.pdf
+0 2 0 311382 0 0
+/intranet_41/Dados/files/CAT0004/75766.pdf
+0 1 0 143192 0 0
+/intranet_41/Dados/files/CAT0009/77720.pdf
+0 4 0 2359043 0 0
+/wp-content/uploads/2014/02/slide04-150x150.png
+1 2 0 21591 0 0
+/intranet/wp-content/plugins/bootstrap-collapse/css/bootstrap.css
+0 2 0 2286 0 0
+/intranet_41/Dados/files/CAT0004/77505.pdf
+0 6 0 176725 0 0
+/intranet_41/Dados/files/CAT0004/76658.pdf
+0 1 0 518756 0 0
+/intranet_41/Dados/files/CAT0004/77989.pdf
+0 3 0 847451 0 0
+/intranet_41/Dados/files/CAT0004/77308.pdf
+0 1 0 793807 0 0
+/wp-content/uploads/2014/02/slide031.png
+1 5963 0 158127415 0 0
+/intranet_41/template/js/tablesorter/themes/blue/asc.gif
+1 72 0 1512 0 0
+/wp-content/plugins/special-recent-posts/assets/css/css-admin.css
+0 2 0 10402 0 0
+/wp-content/plugins/slideshow-gallery/images/colorbox/overlay.png
+1 39 0 5642 0 0
+/intranet_41/Dados/files/CAT0004/77590.pdf
+0 4 0 1315668 0 0
+/intranet_41/Dados/files/CAT0004/75451.pdf
+0 2 0 279512 0 0
+/intranet_41/Dados/files/CAT0004/77871.pdf
+0 3 0 244288 0 0
+/intranet_41/Dados/files/CAT0004/77038.pdf
+0 1 0 0 0 0
+/intranet_41/Dados/files/CAT0009/77298.pdf
+0 3 0 2135929 0 0
+/intranet_41/Dados/files/CAT0006/77556.pdf
+0 1 0 288798 0 0
+/intranet_41/Dados/files/CAT0004/77910.pdf
+0 1 0 183769 0 0
+/intranet_41/Dados/files/CAT0004/77713.pdf
+0 2 0 121825 0 0
+/intranet_41/Dados/files/CAT0004/76866.pdf
+0 1 0 17398 0 0
+/intranet_41/Dados/files/CAT0004/77758.pdf
+0 2 0 221507 0 0
+/intranet_41/Dados/files/CAT0009/78229.pdf
+0 2 0 185118 0 0
+/intranet_41/Dados/files/tmp/00065011.xlsx
+0 1 0 15967 0 0
+/intranet/wp-content/themes/m1/style.css
+0 2 0 94452 0 0
+/intranet_41/Dados/files/CAT0004/73919.pdf
+0 3 0 816138 0 0
+/intranet_41/template/css/temas/verde_limao/images/ui-icons_888888_256x240.png
+1 5033 0 1332545 0 0
+/intranet_41/template/css/imagens-display/logo-davo.png
+1 14498 0 1735215 0 0
+/wp-content/uploads/2014/02/slide05.png
+1 193 0 203524271 0 0
+/wp-content/plugins/custom-login/assets/js/admin.js
+0 1 0 2393 0 0
+/wp-content/uploads/2013/08/icon_header_03.png
+1 3 0 765 0 0
+/wp-admin/images/wpspin_light.gif
+1 1 0 2193 0 0
+/wp-admin/media-new.php
+0 2 0 60372 0 0
+/intranet_41/template/js/interno/T0029/upload.js
+0 65 0 23850 0 0
+/intranet_41/Dados/files/CAT0004/78251.pdf
+0 3 0 817776 0 0
+/intranet_41/Dados/files/CAT0009/77616.xls
+0 7 0 602112 0 0
+/intranet_41/Dados/files/CAT0004/78296.pdf
+0 2 0 375262 0 0
+/painel/painel
+0 4 0 24336 0 1
+/intranet_41/template/css/temas/verde_limao/images/ui-bg_glass_75_f3f3f3_1x400.png
+1 5222 0 31415 0 0
+/intranet_41/Dados/files/CAT0004/77882.pdf
+0 2 0 114343 0 0
+/intranet_41/Dados/files/CAT0004/76551.pdf
+0 1 0 138337 0 0
+/intranet_41/Dados/files/CAT0004/77640.pdf
+0 3 0 375724 0 0
+/intranet_41/Dados/files/CAT0005/78279.pdf
+0 2 0 421809 0 0
+/intranet_41/Dados/files/CAT0004/77246.pdf
+0 2 0 115837 0 0
+/intranet_41/Dados/files/CAT0004/77004.pdf
+0 1 0 427429 0 0
+/intranet_41/Dados/files/CAT0005/77623.pdf
+0 1 0 23015 0 0
+/intranet_41/Dados/files/CAT0004/71145.pdf
+0 1 0 268521 0 0
+/intranet_41/template/img/twitter.png
+1 5428 0 202664 0 0
+/wp-admin/nav-menus.php
+0 8 0 998308 1 1
+/intranet_41/template/js/interno/classes-ui-jquery-form.js
+0 6077 0 2357361 0 0
+/wp-content/uploads/2014/02/slide02-300x228.png
+1 1 0 74900 0 0
+/intranet_41/Dados/files/CAT0004/77370.pdf
+0 1 0 109107 0 0
+/intranet_41/Dados/files/CAT0009/77824.xls
+0 1 0 40448 0 0
+/intranet_41/Dados/files/CAT0004/78020.pdf
+0 2 0 228766 0 0
+/intranet_41/Dados/files/CAT0004/39511.pdf
+0 1 29767120 149666 0 0
+/intranet_41/Dados/files/CAT0005/77792.pdf
+0 1 0 174803 0 0
+/intranet_41/Dados/files/CAT0004/77893.pdf
+0 5 0 465342 0 0
+/intranet_41/Dados/files/CAT0004/77651.pdf
+0 3 0 118887 0 0
+/wp-content/uploads/2013/08/Homenagem-53-150x150.jpg
+1 1 0 10302 0 0
+/intranet_41/Dados/files/CAT0004/77696.pdf
+0 3 0 347193 0 0
+/wp-admin/images/wpspin_light-2x.gif
+1 8 0 27291 0 0
+/intranet_41/Dados/files/CAT0004/77454.pdf
+0 5 0 349300 0 0
+/intranet_41/Dados/files/CAT0004/77932.pdf
+0 7 0 2110158 0 0
+/intranet_41/Dados/files/CAT0005/77634.pdf
+0 1 0 129241 0 0
+/intranet_41/Dados/files/CAT0004/76646.pdf
+0 3 0 669490 0 0
+/intranet_41/Dados/files/CAT0004/77735.pdf
+0 2 0 78096 0 0
+/intranet_41/Dados/files/CAT0004/70500.pdf
+0 1 0 83798 0 0
+/wp-admin/upload.php
+0 8 0 434488 0 0
+/intranet_41/template/img/imagem-16.jpg
+1 14498 0 11790992257 0 0
+/wp-content/plugins/dop-shortcodes/assets/gui/css/style-dopshortcodes-interactive-elements-icons.css
+0 6578 0 11303430 0 0
+/wp-content/uploads/2013/09/logo2-150x65.png
+1 1 0 686 0 0
+/intranet/wp-content/themes/m1/js/off-canvas-nav-simple.js
+0 2 0 550 0 0
+/wp-admin/images/bubble_bg.gif
+1 2 0 395 0 0
+/intranet_41/template/js/interno/T0016/home.js
+0 497 0 379330 0 0
+/wp-content/plugins/slideshow-gallery/images/right.gif
+1 12 0 1826 0 0
+/intranet_41/Dados/files/CAT0004/76376.pdf
+0 1 0 150612 0 0
+/intranet_41/Dados/files/CAT0004/77465.pdf
+0 2 0 268267 0 0
+/intranet_41/Dados/files/CAT0004/77943.pdf
+0 1 0 119267 0 0
+/intranet_41/Dados/files/CAT0004/77701.pdf
+0 5 0 502800 0 0
+/intranet_41/Dados/files/CAT0004/76899.pdf
+0 1 0 333577 0 0
+/intranet_41/Dados/files/CAT0001/75629.pdf
+0 1 29763232 172760 0 0
+/intranet_41/template/js/display/slides.min.jquery.js
+0 14499 0 293161 0 0
+/intranet_41/Dados/files/tmp/00016819.xls
+0 2 0 140288 0 0
+/intranet/wp-content/themes/m1/images/close-btn.svg
+0 1 0 721 0 0
+/intranet_41/Dados/files/CAT0004/77150.pdf
+0 1 0 0 0 0
+/intranet_41/template/css/temas/verde_limao/jquery.ui.all.css
+0 6155 0 93411 0 0
+/intranet_41/Dados/files/tmp/00076623.pdf
+0 4 0 1969540 0 0
+/intranet_41/Dados/files/CAT0004/77870.pdf
+0 2 0 247142 0 0
+/intranet_41/Dados/files/CAT0006/78166.pdf
+0 1 29751216 930031 0 0
+/intranet_41/Dados/files/CAT0005/78025.pdf
+0 2 0 292922 0 0
+/intranet_41/template/css/-resetar-tags.css
+0 6150 0 212668 0 0
+/intranet_41/Dados/files/CAT0004/77712.pdf
+0 4 0 246570 0 0
+/intranet_41/Dados/files/CAT0005/77656.pdf
+0 3 0 787938 0 0
+/intranet_41/template/css/-template-imagens/cabec-cont-info-fast_path-form.botao.gif
+1 5418 0 4084362 0 0
+/intranet_41/Dados/files/CAT0004/73114.pdf
+0 1 0 125455 0 0
+/intranet_41/Dados/files/CAT0004/77757.pdf
+0 2 0 247410 0 0
+/intranet_41/template/css/-menu-imagens/lava.png
+1 5360 0 336906 0 0
+/intranet_41/Dados/files/CAT0004/77515.pdf
+0 1 0 123487 0 0
+/intranet_41/Dados/files/CAT0009/76883.pdf
+0 1 0 49666 0 0
+/intranet_41/Dados/files/CAT0004/77999.pdf
+0 2 0 208137 0 0
+/wp-content/uploads/2014/02/slide041.png
+1 5972 0 352635981 0 0
+/wp-content/uploads/2014/02/slide04-300x171.png
+1 1 0 46735 0 0
+/wp-content/plugins/slideshow-gallery/css/admin.css
+0 50 0 15375 0 0
+/painel/css/jquery/jquery.pnotify.default.css
+0 4 0 8012 0 0
+/wp-content/uploads/2014/02/slide04.png
+1 191 0 29402508 0 0
+/wp-content/uploads/2013/08/icon_header_02.png
+1 3 0 906 0 0
+/wp-content/themes/m1/images/icon_data_publicacao.png
+1 4873 0 678210 0 0
+/wp-content/plugins/bootstrap-collapse/js/bootstrap-collapse.js
+0 5491 0 7197200 0 0
+/intranet_41/Dados/files/CAT0004/76550.pdf
+0 1 0 137626 0 0
+/intranet_41/Dados/files/CAT0004/66991.pdf
+0 1 0 281542 0 0
+/intranet_41/Dados/files/CAT0005/78233.pdf
+0 1 0 115616 0 0
+/intranet_41/Dados/files/CAT0004/77684.pdf
+0 3 0 332768 0 0
+/wp-content/plugins/slideshow-gallery/js/gallery.js
+0 52 0 225360 0 0
+/intranet_41/Dados/files/CAT0006/77763.pdf
+0 1 0 168037 0 0
+/wp-content/uploads/2013/08/Homenagem-47-150x150.jpg
+1 1 0 10644 0 0
+/intranet_41/Dados/files/CAT0004/77965.pdf
+0 4 0 775168 0 0
+/wp-admin/post.php
+0 16 0 1546894 3 0
+/intranet_41/template/css/-menu-ie7.css
+0 3 0 3497 0 0
+/painel/css/login.css
+0 4 0 11968 0 0
+/wp-admin/admin.php
+0 7 0 220634 0 0
+/wp-includes/css/dashicons.min.css
+0 4 0 133664 0 0
+/wp-includes/js/thickbox/loadingAnimation.gif
+1 7 0 76190 0 0
+/intranet_41/Dados/files/CAT0009/77823.xls
+0 1 0 39424 0 0
+/intranet_41/Dados/files/CAT0005/78160.pdf
+0 3 0 400044 0 0
+/wp-content/plugins/widget-icon/assets/font-awesome/css/font-awesome.min.css
+0 6580 0 41959291 0 0
+/wp-content/plugins/buddypress/bp-themes/bp-default/screenshot.png
+1 1 0 36316 0 0
+/intranet_41/Dados/files/CAT0004/77650.pdf
+0 2 0 217935 0 0
+/intranet_41/Dados/files/CAT0004/77695.pdf
+0 1 29745232 120430 0 0
+/intranet_41/Dados/files/CAT0005/78244.pdf
+0 2 0 572733 0 0
+/intranet_41/Dados/files/CAT0004/77256.pdf
+0 2 0 226610 0 0
+/intranet_41/Dados/files/CAT0004/77498.pdf
+0 1 0 0 0 0
+/wp-admin/images/wordpress-logo.svg
+0 2 0 3042 0 0
+/intranet_41/Dados/files/CAT0005/77875.pdf
+0 1 0 243380 0 0
+/intranet_41/Dados/files/CAT0004/77976.pdf
+0 2 0 1530142 0 0
+/intranet_41/Dados/files/CAT0004/77779.pdf
+0 4 0 1137356 0 0
+/intranet_41/Dados/files/CAT0007/77954.pdf
+0 4 0 405192 0 0
+/intranet_41/Dados/files/CAT0004/72767.pdf
+0 1 29766272 176120 0 0
+/intranet_41/template/img/imagem-15.jpg
+1 14498 0 15459143147 0 0
+/intranet_41/Dados/files/CAT0004/77380.pdf
+0 3 0 327396 0 0
+/wp-content/plugins/widget-icon/assets/elusive/css/elusive-webfont.css
+0 6563 0 36912069 0 0
+/intranet_41/Dados/files/CAT0004/77661.pdf
+0 1 0 111145 0 0
+/intranet_41/Dados/files/CAT0004/77464.pdf
+0 1 0 145453 0 0
+/intranet_41/Dados/files/CAT0004/78311.pdf
+0 5 0 1082775 0 0
+/intranet_41/Dados/files/CAT0004/76375.pdf
+0 2 0 246558 0 0
+/intranet_41/Dados/files/CAT0004/78159.pdf
+0 3 0 426498 0 0
+/intranet_41/Dados/files/CAT0004/14558.pdf
+0 1 29763648 472057 0 0
+/painel/css/jquery/jquery-ui-1.10.3.custom.css
+0 4 0 129092 0 0
+/intranet_41/Dados/files/CAT0007/77245.pdf
+0 1 0 289694 0 0
+/intranet_41/Dados/files/CAT0004/77700.pdf
+0 1 29745808 118738 0 0
+/intranet_41/Dados/files/CAT0004/77942.pdf
+0 1 0 117388 0 0
+/intranet_41/Dados/files/CAT0006/78238.pdf
+0 2 0 175528 0 0
+/intranet_41/Dados/files/CAT0004/76656.pdf
+0 2 0 374089 0 0
+/intranet_41/Dados/files/CAT0004/77987.pdf
+0 3 0 278099 0 0
+/intranet/wp-content/plugins/dop-shortcodes/assets/gui/css/style-dopshortcodes-social-icons.css
+0 2 0 35082 0 0
+/wp-content/plugins/bootstrap-collapse/js/bootstrap-transition.js
+0 5483 0 2663852 0 0
+/intranet_41/template/js/interno/T0016/aprovar.js
+0 497 0 476840 0 0
+/intranet_41/Dados/files/CAT0004/77436.jpg
+1 2 0 237292 0 0
+/intranet_41/Dados/files/tmp/00065012.pdf
+0 9 0 2576184 0 0
+/intranet_41/Dados/files/CAT0004/78480.pdf
+0 4 29759184 434250 0 0
+/intranet_41/Dados/files/CAT0005/78182.pdf
+0 3 0 665052 0 0
+/intranet_41/Dados/files/CAT0004/77391.pdf
+0 1 0 270793 0 0
+/intranet_41/Dados/files/
+0 3 0 0 0 0
+/intranet_41/template/css/
+0 16 0 0 0 1
+/intranet_41/Dados/files/tmp/00076622.pdf
+0 2 0 618590 0 0
+/intranet_41/Dados/files/CAT0006/78165.pdf
+0 1 29754016 198385 0 0
+/painel/Clogin/login
+0 6 0 36502 0 1
+/wp-content/plugins/slideshow-jquery-image-gallery/images/SlideshowPlugin/light-bullet.png
+1 5333 0 3801420 0 0
+/intranet/wp-content/plugins/dop-shortcodes/assets/gui/css/style-dopshortcodes-interactive-elements-icons.css
+0 2 0 15078 0 0
+/intranet_41/Dados/files/CAT0001/77975.pdf
+0 1 0 172255 0 0
+/wp-content/plugins/special-recent-posts/assets/css/css-ie7-fix.css
+0 5293 0 930208 0 0
+/intranet_41/Dados/files/CAT0004/77953.pdf
+0 3 0 328123 0 0
+/intranet_41/Dados/files/CAT0004/77711.pdf
+0 2 0 212515 0 0
+/wp-content/plugins/buddypress/bp-core/css/admin-bar.min.css
+0 123 0 7428 0 0
+/intranet_41/Dados/files/CAT0004/77756.pdf
+0 1 0 122341 0 0
+/intranet_41/Dados/files/CAT0004/76425.pdf
+0 1 0 0 0 0
+/intranet_41/Dados/files/CAT0004/77514.pdf
+0 2 0 161059 0 0
+/intranet_41/template/img/davo.gif
+1 5442 0 188496 0 0
+/intranet_41/Dados/files/CAT0009/77631.doc
+0 3 0 133632 0 0
+/wp-includes/images/wpspin-2x.gif
+1 1 0 9097 0 0
+/wp-content/uploads/2014/02/slide03.png
+1 191 0 13248590 0 0
+/wp-content/uploads/2013/08/icon_header_01.png
+1 1 0 681 0 0
+/wp-admin/edit.php
+0 15 0 859362 0 0
+/wp-content/plugins/slideshow-jquery-image-gallery/js/min/all.backend.min.js
+0 79 0 50628 0 0
+/intranet_41/Dados/files/CAT0004/78052.pdf
+0 2 0 251902 0 0
+/intranet_41/Dados/files/CAT0004/77880.pdf
+0 2 0 273437 0 0
+/intranet_41/Dados/files/CAT0004/77441.pdf
+0 6 0 333240 0 0
+/intranet_41/Dados/files/CAT0004/77047.pdf
+0 1 0 82824 0 0
+/intranet_41/template/css/temas/verde_limao/images/ui-bg_diagonals-thick_55_fbf9ee_40x40.png
+1 932 0 9390399 0 0
+/intranet_41/Dados/files/CAT0004/77722.pdf
+0 2 0 699829 0 0
+/intranet_41/Dados/files/CAT0004/75589.pdf
+0 1 0 388896 0 0
+/intranet_41/Dados/files/CAT0004/76678.pdf
+0 1 0 188283 0 0
+/wp-content/plugins/active-directory-authentication-integration/scripts/active-directory-authentication-integration.js
+0 1 0 96 0 0
+/wp-content/uploads/2014/02/slide051.png
+1 6046 0 2519375497 0 0
+/intranet_41/Dados/files/CAT0015/74528.pdf
+0 1 0 1039402 0 0
+/intranet_41/Dados/files/CAT0004/77609.pdf
+0 4 0 1158759 0 0
+/intranet/wp-includes/js/jquery/ui/jquery.ui.accordion.min.js
+0 2 0 16736 0 0
+/intranet_41/Dados/files/CAT0005/77599.jpg
+1 4 0 471720 0 0
+/intranet_41/template/js/interno/T0016/T0016.js
+0 713 0 41180 0 0
+/intranet_41/template/js/interno/T0112/T0112.js
+0 4 0 2445 0 0
+/wp-admin/tools.php
+0 1 0 28141 0 0
+/wp-content/uploads/2014/02/slide031-150x150.png
+1 2 0 25501 0 0
+/intranet_41/Dados/files/CAT0004/77891.pdf
+0 4 0 641424 0 0
+/intranet_41/Dados/files/CAT0005/78243.pdf
+0 2 0 574193 0 0
+/intranet_41/Dados/files/CAT0004/77694.pdf
+0 4 0 428278 0 0
+/intranet/wp-content/plugins/widget-icon/assets/elusive/font/Elusive-Icons.woff
+0 1 0 76072 0 0
+/intranet_41/template/js/interno/T0075/T0075.js
+0 46 0 860 0 0
+/wp-admin/update-core.php
+0 11 0 327106 1 0
+/intranet_41/Dados/files/CAT0004/76841.pdf
+0 2 0 160430 0 0
+/intranet_41/Dados/files/CAT0004/75313.pdf
+0 1 0 0 0 0
+/intranet_41/Dados/files/CAT0004/75358.pdf
+0 1 0 319593 0 0
+/intranet_41/template/img/emporium.gif
+1 5445 0 321122 0 0
+/intranet_41/Dados/files/CAT0004/76728.pdf
+0 1 0 0 0 0
+/intranet_41/template/img/imagem-14.jpg
+1 14500 0 160012199 0 0
+/painel/js/calculation.js
+0 4 0 51204 0 0
+/wp-admin/widgets.php
+0 2 0 2714367 1 0
+/wp-content/themes/m1/images/nav-icon.png
+1 4859 0 475972 0 0
+/intranet_41/Dados/files/CAT0006/78142.jpeg
+0 2 0 713670 0 0
+/intranet_41/Dados/files/CAT0006/77503.jpg
+1 1 0 166869 0 0
+/wp-content/uploads/2014/02/slide081-150x150.png
+1 2 0 44135 0 0
+/intranet/wp-content/plugins/buddypress/bp-templates/bp-legacy/css/buddypress.css
+0 2 0 78548 0 0
+/intranet_41/Dados/files/CAT0005/78451.pdf
+0 3 29751744 463804 0 0
+/intranet_41/template/css/imagens/bkg-classe-botao-padrao.png
+1 3472 0 59186 0 0
+/intranet_41/Dados/files/CAT0005/77120.pdf
+0 1 0 169888 0 0
+/intranet_41/Dados/files/CAT0005/78254.pdf
+0 1 0 73191 0 0
+/intranet_41/Dados/files/CAT0004/77463.pdf
+0 2 0 287486 0 0
+/wp-admin/css/wp-admin.min.css
+0 6 0 969540 0 0
+/intranet_41/Dados/files/CAT0004/77941.pdf
+0 1 0 117902 0 0
+/intranet_41/Dados/files/CAT0006/77587.pdf
+0 1 0 39222 0 0
+/intranet_41/Dados/files/CAT0005/77885.pdf
+0 2 0 239752 0 0
+/intranet_41/Dados/files/CAT0004/77986.pdf
+0 1 0 223196 0 0
+/intranet/wp-content/uploads/2013/08/capa23.png
+1 2 0 1584598 0 0
+/intranet_41/Dados/files/CAT0004/76655.pdf
+0 1 0 175011 0 0
+/wp-content/uploads/2014/02/slide03-150x150.png
+1 2 0 25501 0 0
+/intranet_41/template/css/temas/verde_limao/images/ui-bg_glass_65_ffffff_1x400.png
+1 5191 0 32655 0 0
+/intranet_41/Dados/files/CAT0004/78282.pdf
+0 3 0 565003 0 0
+/intranet_41/Dados/files/tmp/00016307.pdf
+0 1 0 4294756 0 0
+/intranet_41/Dados/files/CAT0004/77277.pdf
+0 1 0 116978 0 0
+/intranet_41/Dados/files/CAT0004/76188.pdf
+0 1 0 474176 0 0
+/intranet_41/template/js/interno/T0064/T0064.js
+0 1 0 297 0 0
+/intranet_41/Dados/files/CAT0004/77710.pdf
+0 1 29746928 121011 0 0
+/intranet_41/Dados/files/CAT0004/77952.pdf
+0 5 0 467292 0 0
+/intranet_41/Dados/files/CAT0004/77513.pdf
+0 2 0 163016 0 0
+/intranet_41/Dados/files/CAT0004/77997.pdf
+0 5 0 113310 0 0
+/intranet_41/template/js/interno/funcoesGerais.js
+0 6069 0 5385072 0 0
+/intranet_41/Dados/files/CAT0004/77119.pdf
+0 2 0 170909 0 0
+/intranet_41/Dados/files/CAT0004/77839.pdf
+0 3 0 422243 0 0
+/intranet_41/Dados/files/CAT0009/75679.pdf
+0 1 0 184760 0 0
+/wp-content/uploads/2014/02/slide02.png
+1 194 0 58844508 0 0
+/wp-admin/themes.php
+0 5 0 210045 0 0
+/painel/images/logo.png
+1 4 0 22596 0 0
+/intranet_41/Dados/files/CAT0004/78490.pdf
+0 2 29764736 171403 0 0
+/wp-content/plugins/slideshow-gallery/images/icon-32.png
+1 1 0 2228 0 0
+/intranet_41/Dados/files/CAT0004/78051.pdf
+0 2 0 330580 0 0
+# End Of Table - urls
+# -sites- (monthly)
+mogge001.grupodavo.davo.com.br
+0 7494 1467 136640837 74 1392136808
+-
+10.6.22.10
+0 3108 730 27257479 35 1392148968
+-
+itqge006.grupodavo.davo.com.br
+0 752 406 15402110 3 1392051052
+/intranet_41/
+itmle001.grupodavo.davo.com.br
+0 7488 1394 132655178 62 1392148315
+-
+tabce010.grupodavo.davo.com.br
+0 2968 564 62459685 23 1391903351
+-
+orage007.grupodavo.davo.com.br
+0 4593 2259 97086370 30 1392143375
+/intranet_41/
+guabe025.grupodavo.davo.com.br
+0 897 393 30273776 7 1392137966
+/intranet_41/
+guace068.grupodavo.davo.com.br
+0 2876 805 13281629 22 1392151640
+/intranet_41/
+tabke018.grupodavo.davo.com.br
+0 2284 121 18107649 30 1392133268
+-
+orace014.grupodavo.davo.com.br
+0 6151 1374 95768958 46 1392153595
+/intranet_41/
+guace079.grupodavo.davo.com.br
+0 311 78 2534407 4 1391591182
+/intranet_41/
+guabe036.grupodavo.davo.com.br
+0 199 40 359834 1 1391683204
+/intranet_41/
+sbcge003.grupodavo.davo.com.br
+0 1499 594 66137037 16 1392134382
+-
+smgje002.grupodavo.davo.com.br
+0 1579 436 43841476 27 1392153444
+-
+mogde003.grupodavo.davo.com.br
+0 486 211 8739331 9 1392152870
+-
+note.grupodavo.davo.com.br
+0 7463 2662 153465328 21 1392142086
+/intranet_41/
+guace040.grupodavo.davo.com.br
+0 50 46 8583129 1 1392135179
+-
+sbcce010.grupodavo.davo.com.br
+0 4532 721 34251520 12 1391977392
+/intranet_41/
+guafe001.grupodavo.davo.com.br
+0 3413 622 61006844 52 1392153058
+-
+guaie021.grupodavo.davo.com.br
+0 348 214 23225810 7 1392087324
+-
+orace095.grupodavo.davo.com.br
+0 1255 322 13063212 15 1392143618
+-
+sbcce021.grupodavo.davo.com.br
+0 9167 3622 62890423 40 1392159256
+/intranet_41/
+oraas008.grupodavo.davo.com.br
+0 7823 2579 112588308 27 1392140628
+/intranet_41/
+smgge004.grupodavo.davo.com.br
+0 1916 1396 118695070 18 1392126494
+/intranet_41/
+smgle001.grupodavo.davo.com.br
+0 7625 5793 664729979 81 1392154131
+/wp-admin/admin-ajax.php
+oraae020.grupodavo.davo.com.br
+0 3228 2141 54151621 14 1392132016
+/intranet_41/
+orade040.grupodavo.davo.com.br
+0 535 355 53236232 15 1392102355
+/wp-admin/admin-ajax.php
+mogfe002.grupodavo.davo.com.br
+0 1089 206 34716045 18 1392113448
+/wp-admin/admin-ajax.php
+itmke002.grupodavo.davo.com.br
+0 1266 211 27229379 21 1392131261
+-
+suzge004.grupodavo.davo.com.br
+0 152 49 8665929 5 1392034150
+-
+guage007.grupodavo.davo.com.br
+0 477 265 13509193 10 1392112003
+/intranet_41/
+itqge011.grupodavo.davo.com.br
+0 2171 1131 109341414 32 1392144501
+/wp-admin/admin-ajax.php
+itmge020.grupodavo.davo.com.br
+0 5833 3246 134301735 33 1392148063
+/intranet_41/
+itqce009.grupodavo.davo.com.br
+0 1634 660 50094369 10 1392158014
+/intranet_41/
+orade003.grupodavo.davo.com.br
+0 476 463 52970181 7 1392109486
+/wp-admin/admin-ajax.php
+guaee002.grupodavo.davo.com.br
+0 1481 1407 27548485 6 1392020507
+/wp-admin/admin-ajax.php
+guabe052.grupodavo.davo.com.br
+0 1964 879 18009997 5 1392112651
+-
+sbcce006.grupodavo.davo.com.br
+0 7957 1465 139115933 34 1392141593
+/wp-admin/admin-ajax.php
+orade025.grupodavo.davo.com.br
+0 169 56 8770825 8 1392102247
+/
+orafe002.grupodavo.davo.com.br
+0 246 233 42817386 5 1391878141
+/wp-admin/admin-ajax.php
+guace047.grupodavo.davo.com.br
+0 869 156 17433495 12 1392102906
+-
+orace052.grupodavo.davo.com.br
+0 3005 433 10889701 20 1392148707
+-
+suzce055.grupodavo.davo.com.br
+0 363 217 19962316 6 1392117650
+-
+sbcje002.grupodavo.davo.com.br
+0 6281 599 73761839 54 1392153919
+-
+table001.grupodavo.davo.com.br
+0 8660 1426 106955335 66 1392129512
+-
+smgge020.grupodavo.davo.com.br
+0 1113 944 8734393 8 1391843587
+-
+orace100.grupodavo.davo.com.br
+0 1947 1000 33876191 14 1392120691
+/intranet_41/
+orade047.grupodavo.davo.com.br
+0 3659 2469 13666532 15 1392139641
+-
+itmge005.grupodavo.davo.com.br
+0 165 94 2025148 2 1391433516
+/intranet_41/
+itmle002.grupodavo.davo.com.br
+0 1163 433 82375589 35 1392151642
+-
+tabce011.grupodavo.davo.com.br
+0 607 61 8978959 10 1392020327
+-
+guace069.grupodavo.davo.com.br
+0 1707 561 21754051 33 1392106874
+-
+guabe026.grupodavo.davo.com.br
+0 102 49 8669965 3 1391704325
+-
+guage023.grupodavo.davo.com.br
+0 5462 1442 172606357 59 1392147944
+-
+oraas42.grupodavo.davo.com.br
+0 53 53 1 27 1392139534
+/wp-cron.php
+orace015.grupodavo.davo.com.br
+0 292 115 1722949 3 1391515111
+/intranet_41/
+guace030.grupodavo.davo.com.br
+0 6319 1027 78245298 60 1392155140
+-
+mogce020.grupodavo.davo.com.br
+0 51 48 8638547 1 1391680432
+/wp-admin/admin-ajax.php
+smgje003.grupodavo.davo.com.br
+0 1393 178 26770422 33 1392128046
+-
+orace085.grupodavo.davo.com.br
+0 3565 1616 116682106 21 1392117971
+/intranet_41/
+orace026.grupodavo.davo.com.br
+0 4268 1522 81103589 54 1392146422
+-
+itmge027.grupodavo.davo.com.br
+0 1553 568 32224022 9 1392118607
+/intranet_41/
+sbcce011.grupodavo.davo.com.br
+0 2306 348 35636162 9 1392070448
+/intranet_41/
+guafe002.grupodavo.davo.com.br
+0 8273 1655 178493518 72 1392152968
+-
+itmce034.grupodavo.davo.com.br
+0 8846 1176 64555763 58 1392156958
+/intranet_41/
+sbcce022.grupodavo.davo.com.br
+0 11683 2336 80681571 31 1392136471
+/intranet_41/
+smgce001.grupodavo.davo.com.br
+0 7326 2380 120413910 82 1392159649
+-
+smgge005.grupodavo.davo.com.br
+0 2616 254 37619312 47 1392118626
+-
+orade041.grupodavo.davo.com.br
+0 1709 137 10387818 41 1392137713
+-
+orage002.grupodavo.davo.com.br
+0 2393 1290 51217462 10 1392116066
+-
+itmke003.grupodavo.davo.com.br
+0 988 74 9334115 24 1392110254
+-
+guace063.grupodavo.davo.com.br
+0 2311 228 25241809 24 1392128908
+-
+guace100.grupodavo.davo.com.br
+0 3787 2176 108902936 14 1392144672
+/intranet_41/
+suzle002.grupodavo.davo.com.br
+0 7281 1785 175779529 88 1392155476
+-
+oraae091.grupodavo.davo.com.br
+0 4173 3148 63039404 6 1392162979
+/intranet_41/
+itqge012.grupodavo.davo.com.br
+0 1191 675 69268873 8 1392156460
+/intranet_41/
+suzce012.grupodavo.davo.com.br
+0 662 540 100587928 4 1391793644
+-
+sbcbe001.grupodavo.davo.com.br
+0 1232 330 21540125 14 1392017816
+-
+guace015.grupodavo.davo.com.br
+0 1918 575 18857832 24 1392155915
+-
+tabce007.grupodavo.davo.com.br
+0 210 59 8899990 4 1392159465
+-
+itmge021.grupodavo.davo.com.br
+0 11969 5037 162326898 60 1392161641
+/intranet_41/
+moghe002.grupodavo.davo.com.br
+0 5626 934 71733155 65 1392153906
+/wp-admin/admin-ajax.php
+orade004.grupodavo.davo.com.br
+0 130 51 8656397 4 1392025343
+/wp-admin/admin-ajax.php
+mogge009.grupodavo.davo.com.br
+0 1814 759 104486279 25 1392067690
+-
+oraie001.grupodavo.davo.com.br
+0 5186 1517 49600557 28 1392160538
+/intranet_41/
+guace085.grupodavo.davo.com.br
+0 14342 1644 65572151 97 1392159586
+/
+guabe042.grupodavo.davo.com.br
+0 892 215 35617090 6 1392107544
+/intranet_41/
+sbcge010-pc.grupodavo.davo.com.br
+0 4444 1959 29411531 30 1392157662
+/intranet_41/
+orace090.grupodavo.davo.com.br
+0 1270 142 9480028 29 1392132367
+-
+guabe053.grupodavo.davo.com.br
+0 796 134 17997509 27 1392135727
+-
+mogje001.grupodavo.davo.com.br
+0 483 184 8751579 9 1392106134
+-
+oraae006.grupodavo.davo.com.br
+0 2290 1793 19015348 4 1392163052
+/intranet_41/
+orade026.grupodavo.davo.com.br
+0 1547 1013 71299063 8 1392132296
+/wp-admin/admin-ajax.php
+guace048.grupodavo.davo.com.br
+0 436 137 9545369 7 1392132154
+-
+guage002.grupodavo.davo.com.br
+0 565 196 34007138 19 1392133476
+-
+smgge010.grupodavo.davo.com.br
+0 7061 3317 56506585 41 1392155129
+/intranet_41/
+orade037.grupodavo.davo.com.br
+0 794 463 8842811 7 1392021930
+-
+suzge010.grupodavo.davo.com.br
+0 3715 781 143074769 40 1392142263
+/
+tabce001.grupodavo.davo.com.br
+0 3895 1167 157708856 71 1392152664
+-
+tabge005.grupodavo.davo.com.br
+0 1720 342 35555103 21 1392153653
+-
+smgde001.grupodavo.davo.com.br
+0 6780 5666 127885876 62 1392149761
+-
+smgce008.grupodavo.davo.com.br
+0 8590 2394 295601199 81 1392139992
+-
+itqce004.grupodavo.davo.com.br
+0 3453 560 60221373 15 1391621608
+-
+itqge008.grupodavo.davo.com.br
+0 381 269 42490510 13 1392134717
+-
+itmge006.grupodavo.davo.com.br
+0 2235 601 105413250 25 1392139012
+-
+itmle003.grupodavo.davo.com.br
+0 5878 1685 78939080 38 1392155595
+/intranet_41/
+orage009.grupodavo.davo.com.br
+0 993 199 17712185 20 1392134792
+-
+guabe027.grupodavo.davo.com.br
+0 510 326 19639999 7 1392129804
+/wp-admin/admin-ajax.php
+guaie001.grupodavo.davo.com.br
+0 249 66 9176743 2 1392034238
+/intranet_41/
+orace075.grupodavo.davo.com.br
+0 46 44 8552589 1 1391518446
+/wp-admin/admin-ajax.php
+orace016.grupodavo.davo.com.br
+0 1093 204 10821245 13 1392111094
+-
+itmge017.grupodavo.davo.com.br
+0 9100 3144 211282425 99 1392140421
+-
+sbcce001.grupodavo.davo.com.br
+0 2900 1490 83636146 106 1392156956
+-
+guabe038.grupodavo.davo.com.br
+0 159 56 15064401 6 1392131755
+-
+sbcge005.grupodavo.davo.com.br
+0 1216 83 9244974 19 1392118439
+-
+orace027.grupodavo.davo.com.br
+0 8904 4718 101570363 47 1392055445
+/intranet_41/
+10.2.6.110
+0 113938 76015 51148121170 43 1392163196
+/intranet_41/
+10.2.6.111
+0 164774 69220 6834923568 45 1392163189
+/intranet_41/
+10.2.6.112
+0 105021 68865 6184582873 30 1392163183
+/intranet_41/
+10.2.6.113
+0 128464 68840 6223935090 36 1392163183
+/intranet_41/
+guafe003.grupodavo.davo.com.br
+0 153 108 25244482 3 1391580374
+-
+guade096.grupodavo.davo.com.br
+0 691 330 71117059 11 1391761881
+/wp-admin/admin-ajax.php
+smgce002.grupodavo.davo.com.br
+0 1068 720 22037220 4 1392158876
+/intranet_41/
+itqge002.grupodavo.davo.com.br
+0 12035 4503 81413386 35 1392157007
+/intranet_41/
+10.2.22.19
+0 46 45 8553620 1 1391835298
+/wp-admin/admin-ajax.php
+orage003.grupodavo.davo.com.br
+0 6594 3577 88604220 37 1392156252
+/intranet_41/
+suzce002.grupodavo.davo.com.br
+0 2887 495 48413359 21 1392136714
+/intranet_41/
+guace064.grupodavo.davo.com.br
+0 2045 726 13124643 20 1392140655
+/intranet_41/
+guabe021.grupodavo.davo.com.br
+0 3472 531 72155953 42 1392135624
+-
+tabge010.grupodavo.davo.com.br
+0 4754 3473 37703015 16 1392163188
+/intranet_41/
+suzge006.grupodavo.davo.com.br
+0 11059 2959 143164444 36 1392159991
+/wp-admin/admin-ajax.php
+guage009.grupodavo.davo.com.br
+0 9066 4566 76538867 34 1392163041
+/intranet_41/
+orade053.grupodavo.davo.com.br
+0 446 91 17746352 6 1392053943
+/intranet_41/
+guace075.grupodavo.davo.com.br
+0 1316 819 11687380 11 1392163175
+/intranet_41/
+tabce008.grupodavo.davo.com.br
+0 5108 594 90122236 50 1392149186
+-
+orace080.grupodavo.davo.com.br
+0 413 235 8861780 10 1392112951
+-
+orace021.grupodavo.davo.com.br
+0 847 282 3023323 7 1392028079
+/intranet_41/
+itqie001.grupodavo.davo.com.br
+0 1250 509 36169558 12 1391981877
+-
+orace108.grupodavo.davo.com.br
+0 364 72 9015329 14 1392126505
+-
+guabe150.grupodavo.davo.com.br
+0 2117 914 80754681 8 1391795767
+/intranet_41/
+orade016.grupodavo.davo.com.br
+0 46 44 8552589 1 1391521172
+/wp-admin/admin-ajax.php
+guabe054.grupodavo.davo.com.br
+0 2027 245 13830142 15 1392106124
+/wp-admin/admin-ajax.php
+mogce028.grupodavo.davo.com.br
+0 2147 549 87799712 27 1392141195
+-
+itmfe001.grupodavo.davo.com.br
+0 3597 1868 195628794 46 1392154884
+-
+oraae007.grupodavo.davo.com.br
+0 47 45 8555529 1 1392126198
+/wp-admin/admin-ajax.php
+orake001.grupodavo.davo.com.br
+0 212 138 25806776 5 1392121976
+-
+guabe006.grupodavo.davo.com.br
+0 317 120 8838862 5 1392025710
+/wp-admin/admin-ajax.php
+guace049.grupodavo.davo.com.br
+0 3000 1492 20846001 8 1392140759
+/intranet_41/
+guage003.grupodavo.davo.com.br
+0 590 551 18926898 25 1391776431
+-
+itaim3-pc.grupodavo.davo.com.br
+0 2762 552 85713258 17 1392144813
+-
+oraae077.grupodavo.davo.com.br
+0 208 132 10468949 1 1392141026
+/intranet_41/
+orace054.grupodavo.davo.com.br
+0 5793 1916 95214054 72 1392161160
+/
+orade038.grupodavo.davo.com.br
+0 39 37 8568735 1 1391619947
+/wp-admin/admin-ajax.php
+tabce002.grupodavo.davo.com.br
+0 13004 1300 129121250 109 1392162740
+-
+guabe017.grupodavo.davo.com.br
+0 240 103 20572498 11 1392117797
+-
+itqce005.grupodavo.davo.com.br
+0 5202 1576 98863883 33 1392149345
+/intranet_41/
+orace065.grupodavo.davo.com.br
+0 6239 2001 27659429 14 1392113164
+-
+mogge004.grupodavo.davo.com.br
+0 9315 3640 91160102 33 1392162646
+/intranet_41/
+mogle001.grupodavo.davo.com.br
+0 3073 384 20187898 56 1392150326
+/intranet_41/
+guace021.grupodavo.davo.com.br
+0 6176 3453 104011613 31 1392140651
+/intranet_41/
+suzge022.grupodavo.davo.com.br
+0 6093 2929 183339328 25 1392147566
+/intranet_41/
+guage121.grupodavo.davo.com.br
+0 271 54 10058738 5 1391593518
+-
+suzce009.grupodavo.davo.com.br
+0 3973 1333 116485036 21 1391552863
+-
+guabe028.grupodavo.davo.com.br
+0 1112 588 19734919 6 1392105758
+-
+guale022.grupodavo.davo.com.br
+0 1937 830 88804939 40 1392150250
+-
+orade010.grupodavo.davo.com.br
+0 144 94 17293753 3 1391785485
+/wp-admin/admin-ajax.php
+orage030.grupodavo.davo.com.br
+0 3034 1739 65807395 17 1392141024
+/intranet_41/
+guace091.grupodavo.davo.com.br
+0 2044 318 10863330 24 1392140614
+-
+suzie010.grupodavo.davo.com.br
+0 1469 270 20386321 14 1392065761
+/intranet_41/
+guabe039.grupodavo.davo.com.br
+0 2440 972 34711346 42 1392129304
+-
+oraae001.grupodavo.davo.com.br
+0 3943 1413 103279003 33 1392156019
+/intranet_41/
+orade021.grupodavo.davo.com.br
+0 325 56 8924660 3 1392025131
+-
+itqje001.grupodavo.davo.com.br
+0 3034 466 28487024 35 1392116497
+-
+suzfe001.grupodavo.davo.com.br
+0 3410 1755 150582735 53 1392142834
+-
+mogce033.grupodavo.davo.com.br
+0 11025 2388 147174876 59 1392133493
+-
+oraae012.grupodavo.davo.com.br
+0 1137 426 17459320 5 1392132962
+/intranet_41/
+orade032.grupodavo.davo.com.br
+0 877 87 9812182 11 1392111457
+-
+guace054.grupodavo.davo.com.br
+0 1468 789 12024188 11 1392111341
+-
+guabe011.grupodavo.davo.com.br
+0 964 578 8767024 7 1392122012
+-
+tabpe001.grupodavo.davo.com.br
+0 2816 345 52081981 40 1392141785
+-
+oraae023.grupodavo.davo.com.br
+0 5910 2054 98048415 15 1392162988
+/intranet_41/
+orade043.grupodavo.davo.com.br
+0 2245 114 17902748 33 1392135143
+-
+guace065.grupodavo.davo.com.br
+0 948 159 9896122 18 1392135488
+-
+orale001.grupodavo.davo.com.br
+0 19465 8477 158427342 38 1392161880
+/intranet_41/
+tabge011.grupodavo.davo.com.br
+0 808 69 15384034 13 1392109331
+-
+itqce010.grupodavo.davo.com.br
+0 8884 2405 201265820 46 1392156130
+-
+orace011.grupodavo.davo.com.br
+0 532 26 613034 2 1391420415
+/intranet_41/
+orade054.grupodavo.davo.com.br
+0 329 107 9244341 4 1391611930
+/intranet_41/
+suzge018.grupodavo.davo.com.br
+0 1405 216 34822843 20 1392135456
+-
+sbcpe001.grupodavo.davo.com.br
+0 2564 396 39730197 21 1392122869
+-
+orace081.grupodavo.davo.com.br
+0 2269 2207 90796 2 1392143270
+/intranet_41/
+mogge020.grupodavo.davo.com.br
+0 657 254 32701079 15 1392138080
+-
+orace022.grupodavo.davo.com.br
+0 71 2 34558 1 1391416750
+/intranet_41/
+itmge023.grupodavo.davo.com.br
+0 1191 401 27427114 18 1392128533
+/intranet_41/
+orade006.grupodavo.davo.com.br
+0 273 59 8792358 9 1392102443
+-
+10.5.6.110
+0 91304 61768 5271241645 86 1392163171
+/intranet_41/
+10.5.6.111
+0 117125 67118 5757045729 128 1392163181
+/intranet_41/
+guace087.grupodavo.davo.com.br
+0 2871 698 16889673 19 1392140864
+/intranet_41/
+guaae001.grupodavo.davo.com.br
+0 1165 408 22001087 9 1392061238
+/intranet_41/
+10.5.6.112
+0 119546 67219 5667836838 120 1392163177
+/intranet_41/
+10.5.6.113
+0 110898 59646 5090367393 136 1392051783
+/intranet_41/
+orace092.grupodavo.davo.com.br
+0 5588 3346 90771099 20 1392135714
+/intranet_41/
+10.2.2.41
+0 104 96 17195934 2 1392055241
+/wp-admin/admin-ajax.php
+tabfe001.grupodavo.davo.com.br
+0 9461 1737 130974620 109 1392137288
+-
+smgge001.grupodavo.davo.com.br
+0 8399 2463 158192050 63 1392155046
+/intranet_41/
+oraae008.grupodavo.davo.com.br
+0 1778 1004 36696247 9 1392162927
+/intranet_41/
+orace055.grupodavo.davo.com.br
+0 1933 680 80613145 26 1392148870
+-
+guace070.grupodavo.davo.com.br
+0 326 165 9086178 13 1392104417
+-
+orade039.grupodavo.davo.com.br
+0 296 77 13053592 5 1392016490
+-
+tabce003.grupodavo.davo.com.br
+0 4280 724 104807714 35 1392135482
+/wp-admin/admin-ajax.php
+sbcfe001.grupodavo.davo.com.br
+0 7740 1591 163209589 64 1392155796
+-
+guabe018.grupodavo.davo.com.br
+0 424 311 20187001 3 1392054685
+/intranet_41/
+smgde003.grupodavo.davo.com.br
+0 7362 2572 150388591 54 1392137309
+/intranet_41/
+mogce001.grupodavo.davo.com.br
+0 8503 1214 126013395 65 1392147222
+-
+itmce004.grupodavo.davo.com.br
+0 15484 5253 469964296 80 1392157271
+/intranet_41/
+guace081.grupodavo.davo.com.br
+0 1580 694 21197789 14 1392142757
+/intranet_41/
+mogle002.grupodavo.davo.com.br
+0 4297 2094 74198985 30 1392160835
+-
+orace007.grupodavo.davo.com.br
+0 203 130 10263789 1 1392064288
+/intranet_41/
+itmge008.grupodavo.davo.com.br
+0 379 63 8952566 14 1392135118
+-
+guabe029.grupodavo.davo.com.br
+0 1354 86 15714072 18 1392138721
+-
+guaie003.grupodavo.davo.com.br
+0 7662 3320 61136036 40 1392158126
+/intranet_41/
+mogce012.grupodavo.davo.com.br
+0 2786 1228 159224545 56 1392161983
+/intranet_41/
+itmce015.grupodavo.davo.com.br
+0 3267 933 94238653 38 1392147512
+-
+suzce030.grupodavo.davo.com.br
+0 10842 1805 152126250 75 1392160037
+-
+sbcce003.grupodavo.davo.com.br
+0 51 48 8638547 1 1391457138
+/wp-admin/admin-ajax.php
+smgce041.grupodavo.davo.com.br
+0 330 184 19177415 5 1392027759
+-
+smgfe002.grupodavo.davo.com.br
+0 340 184 11141039 2 1391776224
+/intranet_41/
+itqje002.grupodavo.davo.com.br
+0 314 205 42757085 6 1392125975
+/wp-admin/admin-ajax.php
+suzfe002.grupodavo.davo.com.br
+0 1514 499 78544694 15 1392137343
+-
+mognt002.grupodavo.davo.com.br
+0 675 211 37760971 18 1392138606
+-
+oraae013.grupodavo.davo.com.br
+0 651 493 18175320 3 1391884358
+/wp-admin/admin-ajax.php
+orade033.grupodavo.davo.com.br
+0 408 313 8721612 6 1392138601
+-
+guace055.grupodavo.davo.com.br
+0 2349 791 18971343 19 1391892496
+-
+tabei005.grupodavo.davo.com.br
+0 3817 1556 52682832 14 1392159046
+/intranet_41/
+tabge001.grupodavo.davo.com.br
+0 7985 1829 48050263 13 1392140532
+/intranet_41/
+tabje021.grupodavo.davo.com.br
+0 2830 340 58857958 44 1392157198
+-
+oraae024.grupodavo.davo.com.br
+0 775 288 10129671 9 1392102788
+/intranet_41/
+itmce048.grupodavo.davo.com.br
+0 2054 473 92711924 31 1392143578
+-
+orade044.grupodavo.davo.com.br
+0 818 241 11280474 7 1391762462
+-
+orace001.grupodavo.davo.com.br
+0 935 747 9233066 16 1392109582
+-
+itmge002.grupodavo.davo.com.br
+0 1229 438 62595043 16 1392131448
+-
+itqle001.grupodavo.davo.com.br
+0 5978 2662 174887212 51 1392156622
+-
+guabe023.grupodavo.davo.com.br
+0 1125 256 10949054 6 1392054360
+/intranet_41/
+guace066.grupodavo.davo.com.br
+0 1322 562 12380705 8 1392136387
+/intranet_41/
+sbcje010.grupodavo.davo.com.br
+0 2451 716 68500774 44 1392154149
+-
+guace007.grupodavo.davo.com.br
+0 3449 1184 83841565 13 1392141386
+/intranet_41/
+10.2.2.188
+0 246 163 10929273 1 1392028858
+/intranet_41/
+guace077.grupodavo.davo.com.br
+0 665 253 43488436 14 1392117573
+/wp-admin/admin-ajax.php
+guabe034.grupodavo.davo.com.br
+0 288 275 54359473 8 1392138083
+/wp-admin/admin-ajax.php
+guade011.grupodavo.davo.com.br
+0 2366 1099 105664136 49 1392154948
+-
+sbcge001.grupodavo.davo.com.br
+0 989 697 8940437 10 1392138039
+/intranet_41/
+mogge021.grupodavo.davo.com.br
+0 2941 348 38085070 31 1392118269
+-
+itmge024.grupodavo.davo.com.br
+0 8832 1622 109064685 59 1392141253
+-
+guaje003.grupodavo.davo.com.br
+0 3362 367 20482313 37 1392140156
+-
+mogce019.grupodavo.davo.com.br
+0 6862 1844 240567494 60 1392161385
+-
+itqfe005.grupodavo.davo.com.br
+0 383 148 27157524 8 1391676793
+-
+mogje004.grupodavo.davo.com.br
+0 2058 470 26332196 28 1392141314
+-
+oraae009.grupodavo.davo.com.br
+0 1475 444 22739730 79 1392110051
+/intranet_41/
+smgae091.grupodavo.davo.com.br
+0 660 131 32013577 15 1392130197
+-
+oraas017.grupodavo.davo.com.br
+0 14 14 281587 10 1391576772
+/
+orace056.grupodavo.davo.com.br
+0 6911 1265 96057581 64 1392157303
+/intranet_41/
+orage010.grupodavo.davo.com.br
+0 366 116 9379503 24 1392139100
+-
+guace071.grupodavo.davo.com.br
+0 404 389 44591143 9 1392141031
+/
+smgie001.grupodavo.davo.com.br
+0 5705 2226 46789228 32 1392156561
+/intranet_41/
+orade060.grupodavo.davo.com.br
+0 1275 531 18583039 8 1392140979
+/intranet_41/
+itqce007.grupodavo.davo.com.br
+0 441 124 17778113 4 1392132690
+/intranet_41/
+orade001.grupodavo.davo.com.br
+0 75 4 207451 3 1392102497
+/
+guace082.grupodavo.davo.com.br
+0 3514 188 20189418 36 1392133686
+-
+guace023.grupodavo.davo.com.br
+0 1 1 23782 1 1391889473
+/
+oraae051.grupodavo.davo.com.br
+0 1699 585 31084995 8 1392059447
+/intranet_41/
+orade012.grupodavo.davo.com.br
+0 45 44 8550680 1 1391501278
+/wp-admin/admin-ajax.php
+guabe050.grupodavo.davo.com.br
+0 125 50 8695438 5 1392114402
+-
+sbcce004.grupodavo.davo.com.br
+0 14543 1566 126876385 104 1392152725
+-
+orade023.grupodavo.davo.com.br
+0 2438 2238 26680998 18 1392104367
+-
+itmje001.grupodavo.davo.com.br
+0 50 46 8583129 1 1391505006
+-
+guace045.grupodavo.davo.com.br
+0 315 53 8738175 7 1392130632
+-
+guade088.grupodavo.davo.com.br
+0 193 123 10305917 4 1392029765
+-
+guabe002.grupodavo.davo.com.br
+0 1701 1059 14550579 6 1392126450
+/intranet_41/
+tabee014.grupodavo.davo.com.br
+0 2031 300 37515318 21 1392161028
+/intranet_41/
+oraae014.grupodavo.davo.com.br
+0 1327 399 13369401 4 1392056456
+/intranet_41/
+orade034.grupodavo.davo.com.br
+0 436 178 10754889 2 1392055189
+/intranet_41/
+guace056.grupodavo.davo.com.br
+0 362 160 9276371 4 1392149023
+-
+guage010.grupodavo.davo.com.br
+0 1976 748 25911371 17 1392131182
+-
+tabge002.grupodavo.davo.com.br
+0 551 158 15518434 27 1392141528
+-
+itqge005.grupodavo.davo.com.br
+0 2939 855 82169009 26 1391626961
+-
+orace002.grupodavo.davo.com.br
+0 290 87 9464392 24 1392116675
+-
+suzce005.grupodavo.davo.com.br
+0 7159 1214 88427397 80 1392161889
+-
+guace067.grupodavo.davo.com.br
+0 615 360 23645121 4 1392108838
+-
+guage021.grupodavo.davo.com.br
+0 1539 98 17442619 26 1392140400
+-
+guace008.grupodavo.davo.com.br
+0 1537 128 10409129 31 1392132395
+-
+itmce010.grupodavo.davo.com.br
+0 3579 881 71380313 34 1392125483
+/wp-admin/admin-ajax.php
+guace078.grupodavo.davo.com.br
+0 708 80 9415387 22 1392129948
+-
+guabe035.grupodavo.davo.com.br
+0 384 84 9533860 14 1392115934
+-
+sbcge002.grupodavo.davo.com.br
+0 2980 875 79001589 29 1392143263
+-
+guace019.grupodavo.davo.com.br
+0 2656 1609 107233441 16 1392150715
+/wp-admin/admin-ajax.php
+orace083.grupodavo.davo.com.br
+0 567 562 8562714 2 1391521074
+/wp-admin/admin-ajax.php
+itmge025.grupodavo.davo.com.br
+0 3568 687 64024812 28 1392154124
+/intranet_41/
+orade008.grupodavo.davo.com.br
+0 1597 731 10784040 8 1392124649
+/intranet_41/
+guaie020.grupodavo.davo.com.br
+0 2728 1316 75643358 22 1392138515
+/intranet_41/
+sbcce020.grupodavo.davo.com.br
+0 2632 892 75502649 15 1391984702
+/intranet_41/
+mogfe001.grupodavo.davo.com.br
+0 5113 1811 116915924 46 1392160475
+-
+orace046.grupodavo.davo.com.br
+0 722 135 9268570 9 1392134359
+/intranet_41/
+suzge003.grupodavo.davo.com.br
+0 14735 3441 198831482 68 1392161725
+/intranet_41/
+guage006.grupodavo.davo.com.br
+0 3761 922 69908905 32 1392156871
+-
+itqge010.grupodavo.davo.com.br
+0 1463 852 138050960 11 1391668748
+-
+orade050.grupodavo.davo.com.br
+0 1622 1100 79189608 12 1392138762
+/wp-admin/admin-ajax.php
+orace057.grupodavo.davo.com.br
+0 2443 321 48256021 19 1391586223
+-
+suzce010.grupodavo.davo.com.br
+0 5845 890 129787464 60 1392150152
+-
+guace072.grupodavo.davo.com.br
+0 4662 447 18335354 19 1392140758
+-
+guace013.grupodavo.davo.com.br
+0 2719 677 106627138 46 1392151627
+/
+oraae005x.grupodavo.davo.com.br
+0 4547 1485 30008923 15 1392055041
+/intranet_41/
+itqce008.grupodavo.davo.com.br
+0 1015 73 9148249 18 1391667838
+-
+itmce006.grupodavo.davo.com.br
+0 8277 1376 191966738 86 1392134826
+-
+10.1.6.110
+0 113389 62133 5695101356 60 1392163184
+/intranet_41/
+orace105.grupodavo.davo.com.br
+0 2081 548 23294944 13 1392155779
+/intranet_41/
+10.1.6.113
+0 99501 59898 5423073910 45 1392163187
+/intranet_41/
+guaee001.grupodavo.davo.com.br
+0 295 112 24576370 5 1392021399
+/wp-admin/admin-ajax.php
+smgke099.grupodavo.davo.com.br
+0 3122 519 38251264 36 1392139724
+-
+guabe051.grupodavo.davo.com.br
+0 610 108 9503977 7 1392106010
+-
+guaie016.grupodavo.davo.com.br
+0 622 103 17588311 11 1392139597
+/wp-admin/admin-ajax.php
+oraae004.grupodavo.davo.com.br
+0 4797 1238 38161037 33 1392132558
+-
+orade024.grupodavo.davo.com.br
+0 559 59 8931050 10 1392108538
+-
+orafe001.grupodavo.davo.com.br
+0 1975 773 97037369 26 1392137518
+-
+itmje002.grupodavo.davo.com.br
+0 1977 619 35527979 32 1392125942
+-
+mogie006.grupodavo.davo.com.br
+0 736 278 63963263 9 1392138017
+/wp-admin/admin-ajax.php
+guace046.grupodavo.davo.com.br
+0 10187 5847 186518798 35 1392140238
+/intranet_41/
+orace051.grupodavo.davo.com.br
+0 1299 142 26239622 28 1392150249
+-
+guabe110.grupodavo.davo.com.br
+0 350 113 9202799 2 1391709068
+/intranet_41/
+guage011.grupodavo.davo.com.br
+0 10768 1185 65444285 49 1392138092
+-
+tabje023.grupodavo.davo.com.br
+0 3775 332 43022737 50 1392157987
+-
+10.9.9.6
+0 3810 816 52276832 15 1392075229
+/intranet_41/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+10.6.22.10
+0 98 2 55200 1 1392148968
+-
+mogge001.grupodavo.davo.com.br
+0 474 11 303600 6 1392136808
+-
+itmle001.grupodavo.davo.com.br
+0 630 184 10736015 5 1392148315
+-
+orage007.grupodavo.davo.com.br
+0 379 180 751541 3 1392143375
+/intranet_41/
+guabe025.grupodavo.davo.com.br
+0 239 154 10391426 1 1392137966
+/intranet_41/
+guace068.grupodavo.davo.com.br
+0 592 209 2161086 7 1392151640
+/intranet_41/
+tabke018.grupodavo.davo.com.br
+0 148 3 84709 3 1392133268
+-
+orace014.grupodavo.davo.com.br
+0 452 235 27647522 5 1392153595
+/intranet_41/
+sbcge003.grupodavo.davo.com.br
+0 149 4 88032 2 1392134382
+-
+smgje002.grupodavo.davo.com.br
+0 199 8 132592 4 1392153444
+-
+mogde003.grupodavo.davo.com.br
+0 34 1 27600 1 1392152870
+-
+note.grupodavo.davo.com.br
+0 582 194 4580042 2 1392142086
+/intranet_41/
+guace040.grupodavo.davo.com.br
+0 50 46 8583129 1 1392135179
+-
+guafe001.grupodavo.davo.com.br
+0 343 7 198927 6 1392153058
+-
+guaie021.grupodavo.davo.com.br
+0 37 2 55200 1 1392087324
+-
+orace095.grupodavo.davo.com.br
+0 43 4 110400 3 1392143618
+-
+sbcce021.grupodavo.davo.com.br
+0 732 337 1339774 6 1392159256
+/intranet_41/
+oraas008.grupodavo.davo.com.br
+0 870 155 2351000 2 1392140628
+/intranet_41/
+smgge004.grupodavo.davo.com.br
+0 233 193 5080876 1 1392126494
+/intranet_41/
+smgle001.grupodavo.davo.com.br
+0 353 334 56234125 7 1392154131
+/wp-admin/admin-ajax.php
+oraae020.grupodavo.davo.com.br
+0 79 79 237 2 1392132016
+/intranet_41/
+orade040.grupodavo.davo.com.br
+0 80 46 8583129 2 1392102355
+/wp-admin/admin-ajax.php
+mogfe002.grupodavo.davo.com.br
+0 50 48 8636638 1 1392113448
+/wp-admin/admin-ajax.php
+itmke002.grupodavo.davo.com.br
+0 181 35 5625352 4 1392131261
+-
+guage007.grupodavo.davo.com.br
+0 263 136 2934709 2 1392112003
+/intranet_41/
+itqge011.grupodavo.davo.com.br
+0 113 48 8632602 3 1392144501
+/wp-admin/admin-ajax.php
+itmge020.grupodavo.davo.com.br
+0 430 251 11005333 5 1392148063
+/intranet_41/
+itqce009.grupodavo.davo.com.br
+0 322 175 16004997 3 1392158014
+/intranet_41/
+orade003.grupodavo.davo.com.br
+0 47 45 8555529 1 1392109486
+/wp-admin/admin-ajax.php
+guabe052.grupodavo.davo.com.br
+0 34 1 27600 1 1392112651
+-
+sbcce006.grupodavo.davo.com.br
+0 705 279 28211171 5 1392141593
+/wp-admin/admin-ajax.php
+orade025.grupodavo.davo.com.br
+0 1 1 23782 1 1392102247
+/
+guace047.grupodavo.davo.com.br
+0 49 1 27600 1 1392102906
+-
+orace052.grupodavo.davo.com.br
+0 177 16 277467 3 1392148707
+-
+suzce055.grupodavo.davo.com.br
+0 101 49 8668056 2 1392117650
+-
+sbcje002.grupodavo.davo.com.br
+0 398 18 7791559 6 1392153919
+-
+table001.grupodavo.davo.com.br
+0 431 33 440634 3 1392129512
+-
+orace100.grupodavo.davo.com.br
+0 164 15 263662 1 1392120691
+/intranet_41/
+orade047.grupodavo.davo.com.br
+0 45 7 179837 7 1392139641
+-
+itmle002.grupodavo.davo.com.br
+0 242 26 3319451 5 1392151642
+-
+guace069.grupodavo.davo.com.br
+0 34 1 27600 1 1392106874
+-
+guage023.grupodavo.davo.com.br
+0 408 126 22843222 5 1392147944
+-
+oraas42.grupodavo.davo.com.br
+0 4 4 0 2 1392139534
+/wp-cron.php
+guace030.grupodavo.davo.com.br
+0 490 25 649571 6 1392155140
+-
+smgje003.grupodavo.davo.com.br
+0 98 2 55200 2 1392128046
+-
+orace085.grupodavo.davo.com.br
+0 377 95 2152039 2 1392117971
+/intranet_41/
+orace026.grupodavo.davo.com.br
+0 737 246 20618484 6 1392146422
+-
+itmge027.grupodavo.davo.com.br
+0 235 57 1426544 2 1392118607
+/intranet_41/
+guafe002.grupodavo.davo.com.br
+0 880 22 588650 7 1392152968
+-
+itmce034.grupodavo.davo.com.br
+0 1196 203 16372629 6 1392156958
+/intranet_41/
+sbcce022.grupodavo.davo.com.br
+0 1466 313 5418813 3 1392136471
+/intranet_41/
+smgce001.grupodavo.davo.com.br
+0 497 164 24682198 8 1392159649
+-
+smgge005.grupodavo.davo.com.br
+0 158 4 110400 4 1392118626
+-
+orade041.grupodavo.davo.com.br
+0 48 6 163703 5 1392137713
+-
+orage002.grupodavo.davo.com.br
+0 33 1 25691 1 1392116066
+-
+itmke003.grupodavo.davo.com.br
+0 49 1 27600 1 1392110254
+-
+guace063.grupodavo.davo.com.br
+0 88 2 59018 2 1392128908
+-
+guace100.grupodavo.davo.com.br
+0 623 346 14296005 4 1392144672
+/intranet_41/
+suzle002.grupodavo.davo.com.br
+0 1229 301 44993753 6 1392155476
+-
+oraae091.grupodavo.davo.com.br
+0 572 295 12557342 1 1392162979
+/intranet_41/
+itqge012.grupodavo.davo.com.br
+0 398 211 25612880 4 1392156460
+/intranet_41/
+guace015.grupodavo.davo.com.br
+0 100 2 59018 3 1392155915
+-
+tabce007.grupodavo.davo.com.br
+0 210 59 8899990 4 1392159465
+-
+itmge021.grupodavo.davo.com.br
+0 944 341 12435313 7 1392161641
+/intranet_41/
+moghe002.grupodavo.davo.com.br
+0 290 100 17387494 4 1392153906
+/wp-admin/admin-ajax.php
+oraie001.grupodavo.davo.com.br
+0 875 244 1221708 6 1392160538
+/intranet_41/
+guabe042.grupodavo.davo.com.br
+0 203 27 7875645 1 1392107544
+/intranet_41/
+guace085.grupodavo.davo.com.br
+0 788 241 26003055 8 1392159586
+/
+sbcge010-pc.grupodavo.davo.com.br
+0 478 154 244253 2 1392157662
+/intranet_41/
+orace090.grupodavo.davo.com.br
+0 37 3 77073 3 1392132367
+-
+guabe053.grupodavo.davo.com.br
+0 97 53 8766784 8 1392135727
+-
+mogje001.grupodavo.davo.com.br
+0 33 1 25691 1 1392106134
+-
+oraae006.grupodavo.davo.com.br
+0 288 287 44289 1 1392163052
+/intranet_41/
+orade026.grupodavo.davo.com.br
+0 47 45 8555529 1 1392132296
+/wp-admin/admin-ajax.php
+guace048.grupodavo.davo.com.br
+0 34 2 51382 2 1392132154
+-
+guage002.grupodavo.davo.com.br
+0 64 6 6389607 2 1392133476
+-
+smgge010.grupodavo.davo.com.br
+0 141 140 8536064 7 1392155129
+/intranet_41/
+suzge010.grupodavo.davo.com.br
+0 176 4 110400 3 1392142263
+/
+tabce001.grupodavo.davo.com.br
+0 213 26 480758 7 1392152664
+-
+tabge005.grupodavo.davo.com.br
+0 98 2 55200 2 1392153653
+-
+smgde001.grupodavo.davo.com.br
+0 209 60 15110128 5 1392149761
+-
+smgce008.grupodavo.davo.com.br
+0 796 249 28522347 8 1392139992
+-
+itqge008.grupodavo.davo.com.br
+0 34 1 27600 1 1392134717
+-
+itmge006.grupodavo.davo.com.br
+0 350 25 7093501 3 1392139012
+-
+itmle003.grupodavo.davo.com.br
+0 673 243 3022245 3 1392155595
+/intranet_41/
+orage009.grupodavo.davo.com.br
+0 37 3 77073 3 1392134792
+-
+guabe027.grupodavo.davo.com.br
+0 46 45 8553620 1 1392129804
+/wp-admin/admin-ajax.php
+orace016.grupodavo.davo.com.br
+0 97 2 55200 2 1392111094
+-
+itmge017.grupodavo.davo.com.br
+0 34 32 5542552 1 1392140421
+-
+sbcce001.grupodavo.davo.com.br
+0 487 244 10626071 12 1392156956
+-
+guabe038.grupodavo.davo.com.br
+0 40 3 82800 2 1392131755
+-
+sbcge005.grupodavo.davo.com.br
+0 99 2 57109 2 1392118439
+-
+10.2.6.110
+0 9885 6696 4515038831 1 1392163196
+/intranet_41/
+10.2.6.111
+0 14865 6289 619780391 5 1392163189
+/intranet_41/
+10.2.6.112
+0 9601 6280 564772721 4 1392163183
+/intranet_41/
+10.2.6.113
+0 11706 6276 565111023 3 1392163183
+/intranet_41/
+smgce002.grupodavo.davo.com.br
+0 657 396 2198257 2 1392158876
+/intranet_41/
+itqge002.grupodavo.davo.com.br
+0 960 347 1669244 5 1392157007
+/intranet_41/
+orage003.grupodavo.davo.com.br
+0 755 195 2503769 6 1392156252
+/intranet_41/
+suzce002.grupodavo.davo.com.br
+0 283 28 422682 2 1392136714
+/intranet_41/
+guabe021.grupodavo.davo.com.br
+0 732 17 463473 6 1392135624
+-
+guace064.grupodavo.davo.com.br
+0 347 166 465096 5 1392140655
+/intranet_41/
+tabge010.grupodavo.davo.com.br
+0 505 282 1090817 3 1392163188
+/intranet_41/
+suzge006.grupodavo.davo.com.br
+0 427 325 18902968 2 1392159991
+/wp-admin/admin-ajax.php
+guage009.grupodavo.davo.com.br
+0 530 301 1460406 5 1392163041
+/intranet_41/
+guace075.grupodavo.davo.com.br
+0 368 187 707831 2 1392163175
+/intranet_41/
+tabce008.grupodavo.davo.com.br
+0 362 8 218891 6 1392149186
+-
+orace080.grupodavo.davo.com.br
+0 34 1 27600 1 1392112951
+-
+orace108.grupodavo.davo.com.br
+0 32 1 25691 1 1392126505
+-
+guabe054.grupodavo.davo.com.br
+0 46 45 8553620 1 1392106124
+/wp-admin/admin-ajax.php
+mogce028.grupodavo.davo.com.br
+0 50 1 29509 1 1392141195
+-
+itmfe001.grupodavo.davo.com.br
+0 159 50 14620343 7 1392154884
+-
+oraae007.grupodavo.davo.com.br
+0 47 45 8555529 1 1392126198
+/wp-admin/admin-ajax.php
+orake001.grupodavo.davo.com.br
+0 33 1 25691 1 1392121976
+-
+guace049.grupodavo.davo.com.br
+0 377 271 3152949 1 1392140759
+/intranet_41/
+itaim3-pc.grupodavo.davo.com.br
+0 652 80 11007398 4 1392144813
+-
+oraae077.grupodavo.davo.com.br
+0 208 132 10468949 1 1392141026
+/intranet_41/
+orace054.grupodavo.davo.com.br
+0 919 181 3103953 8 1392161160
+/
+tabce002.grupodavo.davo.com.br
+0 1197 45 7229177 12 1392162740
+-
+guabe017.grupodavo.davo.com.br
+0 50 48 11806561 2 1392117797
+-
+itqce005.grupodavo.davo.com.br
+0 729 195 3003414 3 1392149345
+/intranet_41/
+orace065.grupodavo.davo.com.br
+0 49 1 27600 1 1392113164
+-
+mogge004.grupodavo.davo.com.br
+0 678 338 703434 1 1392162646
+/intranet_41/
+mogle001.grupodavo.davo.com.br
+0 540 203 9455364 10 1392150326
+/intranet_41/
+suzge022.grupodavo.davo.com.br
+0 851 377 4338772 1 1392147566
+/intranet_41/
+guace021.grupodavo.davo.com.br
+0 910 530 15285308 1 1392140651
+/intranet_41/
+guabe028.grupodavo.davo.com.br
+0 32 1 25691 1 1392105758
+-
+guale022.grupodavo.davo.com.br
+0 308 51 7729947 6 1392150250
+-
+orage030.grupodavo.davo.com.br
+0 468 291 10747621 2 1392141024
+/intranet_41/
+guace091.grupodavo.davo.com.br
+0 89 16 418692 7 1392140614
+-
+guabe039.grupodavo.davo.com.br
+0 148 22 508052 8 1392129304
+-
+oraae001.grupodavo.davo.com.br
+0 216 179 18785373 4 1392156019
+/intranet_41/
+itqje001.grupodavo.davo.com.br
+0 39 4 102764 2 1392116497
+-
+suzfe001.grupodavo.davo.com.br
+0 132 55 8818166 6 1392142834
+-
+mogce033.grupodavo.davo.com.br
+0 765 59 2218981 4 1392133493
+-
+oraae012.grupodavo.davo.com.br
+0 115 10 233872 1 1392132962
+/intranet_41/
+orade032.grupodavo.davo.com.br
+0 51 1 31418 1 1392111457
+-
+guabe011.grupodavo.davo.com.br
+0 34 1 27600 1 1392122012
+-
+guace054.grupodavo.davo.com.br
+0 32 1 25691 1 1392111341
+-
+tabpe001.grupodavo.davo.com.br
+0 152 4 118036 3 1392141785
+-
+oraae023.grupodavo.davo.com.br
+0 773 402 10677961 2 1392162988
+/intranet_41/
+orade043.grupodavo.davo.com.br
+0 196 4 110400 3 1392135143
+-
+guace065.grupodavo.davo.com.br
+0 36 2 53291 2 1392135488
+-
+orale001.grupodavo.davo.com.br
+0 1204 152 10527570 8 1392161880
+/intranet_41/
+tabge011.grupodavo.davo.com.br
+0 49 1 27600 1 1392109331
+-
+itqce010.grupodavo.davo.com.br
+0 478 108 2111354 5 1392156130
+-
+suzge018.grupodavo.davo.com.br
+0 479 59 8944056 4 1392135456
+-
+sbcpe001.grupodavo.davo.com.br
+0 101 2 60927 3 1392122869
+-
+orace081.grupodavo.davo.com.br
+0 222 221 2541 1 1392143270
+/intranet_41/
+mogge020.grupodavo.davo.com.br
+0 83 47 8608820 4 1392138080
+-
+itmge023.grupodavo.davo.com.br
+0 289 75 3893665 3 1392128533
+/intranet_41/
+orade006.grupodavo.davo.com.br
+0 32 1 25691 1 1392102443
+-
+10.5.6.110
+0 8760 6090 465822094 10 1392163171
+/intranet_41/
+10.5.6.111
+0 10216 6104 471775605 20 1392163181
+/intranet_41/
+guace087.grupodavo.davo.com.br
+0 402 125 1118006 3 1392140864
+/intranet_41/
+10.5.6.112
+0 10108 6090 470219437 13 1392163177
+/intranet_41/
+orace092.grupodavo.davo.com.br
+0 264 138 827933 3 1392135714
+/intranet_41/
+tabfe001.grupodavo.davo.com.br
+0 232 16 369142 6 1392137288
+-
+smgge001.grupodavo.davo.com.br
+0 205 37 90166 2 1392155046
+/intranet_41/
+oraae008.grupodavo.davo.com.br
+0 431 257 11236251 2 1392162927
+/intranet_41/
+orace055.grupodavo.davo.com.br
+0 165 125 10353282 4 1392148870
+-
+guace070.grupodavo.davo.com.br
+0 34 1 27600 1 1392104417
+-
+tabce003.grupodavo.davo.com.br
+0 329 107 26391679 3 1392135482
+/wp-admin/admin-ajax.php
+sbcfe001.grupodavo.davo.com.br
+0 277 78 836183 5 1392155796
+-
+smgde003.grupodavo.davo.com.br
+0 1061 229 20898152 4 1392137309
+/intranet_41/
+mogce001.grupodavo.davo.com.br
+0 334 7 195109 5 1392147222
+-
+itmce004.grupodavo.davo.com.br
+0 1635 826 102020163 5 1392157271
+/intranet_41/
+guace081.grupodavo.davo.com.br
+0 233 125 494291 1 1392142757
+/intranet_41/
+mogle002.grupodavo.davo.com.br
+0 632 349 12624812 3 1392160835
+-
+itmge008.grupodavo.davo.com.br
+0 34 2 51382 2 1392135118
+-
+guabe029.grupodavo.davo.com.br
+0 98 2 55200 2 1392138721
+-
+guaie003.grupodavo.davo.com.br
+0 776 232 2974735 4 1392158126
+/intranet_41/
+mogce012.grupodavo.davo.com.br
+0 370 109 9459604 6 1392161983
+/intranet_41/
+itmce015.grupodavo.davo.com.br
+0 253 52 8760401 4 1392147512
+-
+suzce030.grupodavo.davo.com.br
+0 660 15 417818 10 1392160037
+-
+itqje002.grupodavo.davo.com.br
+0 93 89 17144665 1 1392125975
+/wp-admin/admin-ajax.php
+suzfe002.grupodavo.davo.com.br
+0 464 163 32830681 3 1392137343
+-
+mognt002.grupodavo.davo.com.br
+0 106 3 80891 2 1392138606
+-
+orade033.grupodavo.davo.com.br
+0 37 2 55200 2 1392138601
+-
+tabei005.grupodavo.davo.com.br
+0 618 162 4061748 3 1392159046
+/intranet_41/
+tabge001.grupodavo.davo.com.br
+0 373 133 285606 1 1392140532
+/intranet_41/
+tabje021.grupodavo.davo.com.br
+0 93 2 55200 2 1392157198
+-
+itmce048.grupodavo.davo.com.br
+0 208 5 138000 4 1392143578
+-
+oraae024.grupodavo.davo.com.br
+0 86 86 258 1 1392102788
+/intranet_41/
+orace001.grupodavo.davo.com.br
+0 33 1 25691 1 1392109582
+-
+itmge002.grupodavo.davo.com.br
+0 150 50 8695656 3 1392131448
+-
+itqle001.grupodavo.davo.com.br
+0 112 10 237977 7 1392156622
+-
+guace066.grupodavo.davo.com.br
+0 481 142 450037 1 1392136387
+/intranet_41/
+sbcje010.grupodavo.davo.com.br
+0 367 87 390201 6 1392154149
+-
+guace007.grupodavo.davo.com.br
+0 740 325 32228593 2 1392141386
+/intranet_41/
+guabe034.grupodavo.davo.com.br
+0 46 44 8552589 1 1392138083
+/wp-admin/admin-ajax.php
+guace077.grupodavo.davo.com.br
+0 51 48 8638547 1 1392117573
+/wp-admin/admin-ajax.php
+guade011.grupodavo.davo.com.br
+0 142 10 239886 5 1392154948
+-
+sbcge001.grupodavo.davo.com.br
+0 227 114 112267 2 1392138039
+/intranet_41/
+mogge021.grupodavo.davo.com.br
+0 343 7 193200 2 1392118269
+-
+itmge024.grupodavo.davo.com.br
+0 1003 233 18673124 14 1392141253
+-
+guaje003.grupodavo.davo.com.br
+0 49 6 165600 3 1392140156
+-
+mogce019.grupodavo.davo.com.br
+0 669 90 1150514 5 1392161385
+-
+mogje004.grupodavo.davo.com.br
+0 246 5 139909 3 1392141314
+-
+smgae091.grupodavo.davo.com.br
+0 100 2 59018 2 1392130197
+-
+oraae009.grupodavo.davo.com.br
+0 78 9 144418 1 1392110051
+/intranet_41/
+orace056.grupodavo.davo.com.br
+0 455 124 17667066 6 1392157303
+/intranet_41/
+orage010.grupodavo.davo.com.br
+0 37 3 77073 3 1392139100
+-
+guace071.grupodavo.davo.com.br
+0 51 46 8585038 3 1392141031
+/
+smgie001.grupodavo.davo.com.br
+0 405 196 370113 2 1392156561
+/intranet_41/
+orade060.grupodavo.davo.com.br
+0 177 53 1064529 2 1392140979
+/intranet_41/
+itqce007.grupodavo.davo.com.br
+0 6 5 34623 1 1392132690
+/intranet_41/
+orade001.grupodavo.davo.com.br
+0 1 1 23782 1 1392102497
+/
+guace082.grupodavo.davo.com.br
+0 318 7 202745 5 1392133686
+-
+guabe050.grupodavo.davo.com.br
+0 37 2 55200 2 1392114402
+-
+sbcce004.grupodavo.davo.com.br
+0 1155 61 996499 11 1392152725
+-
+orade023.grupodavo.davo.com.br
+0 32 1 25691 1 1392104367
+-
+guace045.grupodavo.davo.com.br
+0 35 2 51382 2 1392130632
+-
+guabe002.grupodavo.davo.com.br
+0 368 177 3273467 1 1392126450
+/intranet_41/
+tabee014.grupodavo.davo.com.br
+0 757 80 2105637 3 1392161028
+/intranet_41/
+guace056.grupodavo.davo.com.br
+0 42 9 60323 2 1392149023
+-
+guage010.grupodavo.davo.com.br
+0 355 171 962909 2 1392131182
+-
+tabge002.grupodavo.davo.com.br
+0 80 15 381547 5 1392141528
+-
+orace002.grupodavo.davo.com.br
+0 32 1 25691 1 1392116675
+-
+suzce005.grupodavo.davo.com.br
+0 260 33 678238 9 1392161889
+-
+guace067.grupodavo.davo.com.br
+0 34 1 27600 1 1392108838
+-
+guage021.grupodavo.davo.com.br
+0 147 3 82800 3 1392140400
+-
+guace008.grupodavo.davo.com.br
+0 45 7 179837 3 1392132395
+-
+itmce010.grupodavo.davo.com.br
+0 293 118 17796995 4 1392125483
+/wp-admin/admin-ajax.php
+guabe035.grupodavo.davo.com.br
+0 35 3 75164 3 1392115934
+-
+guace078.grupodavo.davo.com.br
+0 47 6 161782 5 1392129948
+-
+sbcge002.grupodavo.davo.com.br
+0 68 4 102764 3 1392143263
+-
+guace019.grupodavo.davo.com.br
+0 113 99 17344186 6 1392150715
+/wp-admin/admin-ajax.php
+itmge025.grupodavo.davo.com.br
+0 164 39 6999087 2 1392154124
+/intranet_41/
+orade008.grupodavo.davo.com.br
+0 3 2 34615 1 1392124649
+/intranet_41/
+guaie020.grupodavo.davo.com.br
+0 339 234 12116118 4 1392138515
+/intranet_41/
+mogfe001.grupodavo.davo.com.br
+0 592 263 13134147 4 1392160475
+-
+orace046.grupodavo.davo.com.br
+0 377 81 464423 2 1392134359
+/intranet_41/
+suzge003.grupodavo.davo.com.br
+0 1949 358 12477503 7 1392161725
+/intranet_41/
+guage006.grupodavo.davo.com.br
+0 500 141 867483 5 1392156871
+-
+orade050.grupodavo.davo.com.br
+0 47 45 8555529 1 1392138762
+/wp-admin/admin-ajax.php
+suzce010.grupodavo.davo.com.br
+0 443 57 8886947 6 1392150152
+-
+guace072.grupodavo.davo.com.br
+0 345 25 909750 2 1392140758
+-
+guace013.grupodavo.davo.com.br
+0 380 58 8910729 7 1392151627
+/
+itmce006.grupodavo.davo.com.br
+0 392 8 220800 6 1392134826
+-
+10.1.6.110
+0 10726 6140 547581550 14 1392163184
+/intranet_41/
+orace105.grupodavo.davo.com.br
+0 577 176 1297320 4 1392155779
+/intranet_41/
+10.1.6.113
+0 10046 6160 543798205 18 1392163187
+/intranet_41/
+smgke099.grupodavo.davo.com.br
+0 359 8 224618 5 1392139724
+-
+guabe051.grupodavo.davo.com.br
+0 22 1 25691 1 1392106010
+-
+guaie016.grupodavo.davo.com.br
+0 33 32 8439440 1 1392139597
+/wp-admin/admin-ajax.php
+oraae004.grupodavo.davo.com.br
+0 154 120 70724 3 1392132558
+-
+orade024.grupodavo.davo.com.br
+0 149 3 86618 3 1392108538
+-
+orafe001.grupodavo.davo.com.br
+0 57 2 55200 1 1392137518
+-
+itmje002.grupodavo.davo.com.br
+0 41 5 128455 3 1392125942
+-
+mogie006.grupodavo.davo.com.br
+0 214 104 17456610 2 1392138017
+/wp-admin/admin-ajax.php
+guace046.grupodavo.davo.com.br
+0 932 536 15826878 5 1392140238
+/intranet_41/
+orace051.grupodavo.davo.com.br
+0 42 1 27600 1 1392150249
+-
+guage011.grupodavo.davo.com.br
+0 792 38 844301 6 1392138092
+-
+tabje023.grupodavo.davo.com.br
+0 149 3 86618 3 1392157987
+-
+# End Of Table - sites (daily)
+# -referrers- 
+http://intranet/painel/css/jquery/jquery-ui-1.10.3.custom.css
+0 1
+- (Direct Request)
+0 37502
+http://intranet/painel/
+0 24
+http://intranet/intranet_41/template/css/-menu.css
+0 287
+http://intranet/intranet_41/Dados/files/CAT0004/77953.pdf
+0 1
+http://intranet/wp-admin/user-edit.php
+0 18
+http://intranet/wp-admin/index.php
+0 10
+http://intranet/intranet_41/template/js/tablesorter/themes/blue/style.css
+0 10
+http://intranet/intranet_41/Dados/files/CAT0004/77952.pdf
+0 3
+http://intranet/intranet_41/template/css/-validationEngine.jquery.css
+0 8
+http://intranet/wp-admin/update.php
+0 49
+http://intranet/intranet_41/template/css/temas/verde_limao/jquery.ui.all.css
+0 268
+http://intranet/wp-login.php
+0 45
+http://intranet_qas/painel/C0140
+0 6
+http://intranet/intranet_41/template/css/temas/verde_limao/jquery.ui.base.css
+0 1474
+http://intranet/wp-admin/upgrade.php
+0 10
+http://intranet/wp-admin/upload.php
+0 140
+http://intranet/wp-admin/css/colors-fresh.min.css
+0 6
+http://intranet/intranet_41/template/css/-estilo-include-tudo.css
+0 804
+http://intranet/wp-content/plugins/slideshow-jquery-image-gallery/css/all.backend.css
+0 7
+http://intranet/wp-admin/users.php
+0 86
+http://intranet/intranet_41/template/css/-classes.css
+0 1198
+http://intranet/wp-content/themes/m1/style.css
+0 25
+http://intranet/intranet_41/Dados/files/CAT0004/75770.pdf
+0 1
+http://intranet/painel/painel
+0 63
+http://intranet/wp-admin/post.php
+0 334
+http://intranet/painel/Clogin/login
+0 133
+http://intranet_qas/paine
+0 1
+http://intranet/intranet/
+0 77
+http://intranet/wp-content/plugins/slideshow-gallery/css/gallery-css.php
+0 4
+http://intranet/intranet_41/template/css/-layout-prd.css
+0 382
+http://intranet/intranet_41/Dados/files/tmp/00063979.pdf
+0 2
+http://intranet/
+0 291976
+http://intranet/wp-admin/plugin-install.php
+0 29
+http://intranet/wp-admin/edit.php
+0 144
+http://intranet/wp-admin/themes.php
+0 62
+http://intranet./
+0 46
+http://intranet/intranet_41/template/css/temas/verde_limao/jquery.ui.theme.css
+0 883
+http://intranet/wp-content/plugins/rocket-dashboard/wp-admin.css
+0 3
+http://intranet/intranet_41/Dados/files/tmp/00063978.pdf
+0 4
+http://intranet/intranet_41/Dados/files/CAT0004/75902.pdf
+0 1
+http://intranet_qas/painel/Clogin/login
+0 51
+http://www-open-opensocial.googleusercontent.com/gadgets/ifr
+0 19
+http://intranet/intranet_41/Dados/files/CAT0007/78140.pdf
+0 7
+http://intranet/intranet_41/Dados/files/tmp/00063977.pdf
+0 2
+http://intranet/intranet_41/Dados/files/CAT0004/77877.pdf
+0 1
+http://intranet/wp-admin/load-styles.php
+0 25
+http://intranet/wp-admin/media-new.php
+0 59
+http://intranet/wp-admin/options-general.php
+0 22
+http://intranet/wp-admin/nav-menus.php
+0 67
+http://intranet/wp-admin/admin.php
+0 88
+http://intranet/wp-admin/css/install.min.css
+0 1
+http://intranet/wp-content/plugins/widget-icon/assets/elusive/css/elusive-webfont.css
+0 42
+http://intranet/intranet_41/Dados/files/CAT0004/77865.pdf
+0 1
+http://intranet_qas/
+0 143
+http://intranet/wp-admin/admin-ajax.php
+0 151
+http://intranet/wp-admin/post-new.php
+0 65
+http://intranet/wp-content/plugins/custom-login/assets/css/chosen.css
+0 1
+http://intranet_qas/painel/C0075/vendas
+0 42
+http://intranet/wp-admin/user-new.php
+0 38
+http://intranet/wp-admin/tools.php
+0 9
+http://intranet/wp-admin/widgets.php
+0 52
+http://intranet/wp-admin/about.php
+0 15
+http://intranet/intranet_41/Dados/files/tmp/00055198.pdf
+0 2
+http://intranet/wp-admin/plugins.php
+0 160
+http://intranet/wp-admin/
+0 132
+http://intranet/wp-admin/update-core.php
+0 99
+http://intranet.grupodavo.davo.com.br/intranet_41/
+1 1122122
+http://intranet/intranet_41/
+0 629914
+http://intranet/wp-admin/import.php
+0 37
+http://intranet_qas/wp-content/uploads/2014/02/icon_header_03.png
+0 6
+http://intranet_qas/painel/C0026
+0 24
+http://intranet/intranet_41/Dados/files/CAT0004/77749.pdf
+0 1
+http://intranet/wp-admin/customize.php
+0 245
+http://intranet.grupodavo.davo.com.br/intranet_41/template/css/estilo-painel-linux.css
+1 27270
+http://intranet/wp-admin/export.php
+0 12
+http://intranet_qas/painel/C0075
+0 76
+http://intranet/painel/css/style.css
+0 9
+http://intranet_qas/painel/painel
+0 42
+http://intranet/intranet_41/Dados/files/tmp/00065012.pdf
+0 6
+# End Of Table - referrers
+# -agents- 
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; MPPresence)
+0 101
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; MPPresence)
+0 1
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:16.0) Gecko/20100101 Firefox/16.0
+0 128464
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+0 14
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 2.0.5072
+0 17243
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)
+0 886
+Microsoft Office Existence Discovery
+0 40
+Mozilla/5.0 (Windows NT 6.1; rv:21.0) Gecko/20100101 Firefox/21.0
+0 4128
+Mozilla/5.0 (compatible; Google Desktop/5.9.1005.12335; http://desktop.google.com/)
+0 2
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.5; .NET CLR 2.0.50727)
+0 23
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 2.0.5072
+0 38
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:26.0) Gecko/20100101 Firefox/26.0
+0 212890
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1;  Embedded Web Browser from: http://bsalsa.com/; .NET CLR 2.0.50727; .NET C
+0 1077
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:26.0) Gecko/20100101 Firefox/26.0
+0 3538
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; .NET4.0C; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CL
+0 2903
+Mozilla/5.0 (Windows NT 6.1; rv:6.0) Gecko/20100101 Firefox/6.0
+0 1054
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET4.0C; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CL
+0 38
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.89 Safari/537.1
+0 1137
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+0 599
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.102 Safari/537.36
+0 7366
+Microsoft-WebDAV-MiniRedir/6.1.7600
+0 32
+Microsoft-WebDAV-MiniRedir/6.1.7601
+0 277
+WordPress/3.6; http://intranet
+0 2
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; .NET CL
+0 189
+WordPress/3.6; http://intranet.grupodavo.davo.com.br/intranet
+0 2
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/4.0; GTB7.5; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET C
+0 296
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.2; WOW64; Trident/6.0; .NET4.0E; .NET4.0C; .NET CLR 3.5.30729; .NET CLR 2.0.5
+0 1134
+Mozilla/4.0 (compatible; MS FrontPage 6.0)
+0 6
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.102 Safari/537.36
+0 736
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CL
+0 5968
+Mozilla/5.0 (Windows NT 6.1; rv:26.0) Gecko/20100101 Firefox/26.0
+0 6871
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; .NET CLR 3.5.30729; .NET CLR 2.0.50727; .NET CLR 3.0.4506.215
+0 1013
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30;
+0 1462
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727)
+0 4280
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 3.5.30729; .NET CLR 2.0.50727; .NET CLR 3.0.4506.215
+0 2
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+0 754
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30;
+0 1
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0; MALNJS)
+0 2
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.3; Win64; x64; Trident/7.0; .NET4.0E; .NET4.0C; .NET CLR 3.5.30729; .NET CLR 
+0 1
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:17.0) Gecko/20100101 Firefox/17.0
+0 119546
+Mozilla/5.0 (compatible; Google Desktop/5.9.911.3589; http://desktop.google.com/)
+0 78
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.3072
+0 162544
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506
+0 41855
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.3072
+0 943
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506
+0 164
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; GTB7.5; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3
+0 11981
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.4506.
+0 20398
+WordPress/3.8.1; http://intranet
+0 49
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+0 11070
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.5; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3
+0 19
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.4506.
+0 23
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727)
+0 40498
+Microsoft Office Protocol Discovery
+0 54
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.5; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30)
+0 126
+Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+0 54
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; GTB7.4; .NET CLR 2.0.50727)
+0 2248
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.3; WOW64; Trident/7.0; .NET4.0E; .NET4.0C; .NET CLR 3.5.30729; .NET CLR 2.0.5
+0 264
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152
+0 50
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CL
+0 3200
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+0 5719
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.2102
+0 2775
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:27.0) Gecko/20100101 Firefox/27.0
+0 1965
+Mozilla/5.0 (Windows NT 6.1; rv:17.0) Gecko/20100101 Firefox/17.0
+0 5695
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; BTRS100205; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3
+0 3106
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.4; .NET CLR 2.0.50727)
+0 36
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.102 Safari/537.36
+0 640
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.2102
+0 41
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:11.0) Gecko/20100101 Firefox/11.0
+0 164774
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS100205; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3
+0 2
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.72 Safari/537.36
+0 45
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.3
+0 111556
+MSFrontPage/6.0
+0 6
+Microsoft Data Access Internet Publishing Provider Protocol Discovery
+0 16
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.3
+0 171184
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727)
+0 228
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:21.0) Gecko/20100101 Firefox/21.0
+0 319327
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.3
+0 70853
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.3
+0 399
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.3
+0 141880
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+0 73
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0;  Embedded Web Browser from: http://bsalsa.com/; .NET CLR 2.0.
+0 124
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.0.4506.2152
+0 1912
+WWW-Mechanize/1.0.0 (http://rubyforge.org/projects/mechanize/)
+0 14
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; GTB7.5; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30)
+0 19488
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.0.4506.2152
+0 6
+DavClnt
+0 12
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CL
+0 24690
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.76 Safari/537.36
+0 1332
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/4.0; GTB7.4; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET C
+0 652
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; GTB7.5; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 
+0 21467
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:18.0) Gecko/20100101 Firefox/18.0
+0 105021
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+0 422
+Mozilla/5.0 (Windows NT 5.1; rv:26.0) Gecko/20100101 Firefox/26.0
+0 1327
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; GTB7.4; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET C
+0 13
+Microsoft Office Excel 2013 (15.0.4551) Windows NT 6.1
+0 3
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.102 Safari/537.36
+0 165
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.5; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 
+0 68
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+0 788
+Mozilla/5.0 (X11; Linux i686; rv:7.0.1) Gecko/20100101 Firefox/7.0.1
+0 113938
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; GTB7.5; .NET CLR 2.0.50727)
+0 5688
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

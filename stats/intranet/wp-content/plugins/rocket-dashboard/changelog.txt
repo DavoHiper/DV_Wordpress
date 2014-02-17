@@ -1,0 +1,16 @@
+**** Rocket Dashboard Changelog ****
+
+2013.01.30 - Version 1.0.3
+  *Set the WordPress logo to not display any other image
+
+2013.01.29 - Version 1.0.2
+  *Adjusted styling for button-secondary to ensure that the text is white
+  *Added more styling to make sure standard icon images don't show
+
+2013.01.29 - Version 1.0.1
+  *Added icons for Jetpack and Gravity Forms
+  *Added automatic updates
+  *Adjusted styling for submenus so they don't cut off with multiple line items
+  
+2013.01.27 - Version 1.0
+  *First release!
